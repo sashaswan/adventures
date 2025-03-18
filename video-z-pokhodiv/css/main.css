@@ -125,25 +125,29 @@ h1 {
   max-width: 570px;
   margin-right: 16px;
   height: 470px;
-  background: url(/video-z-pokhodiv/img/1.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/video-z-pokhodiv/img/1.png)
+    no-repeat center;
 }
 .Video-2 {
   max-width: 570px;
   margin-left: 16px;
   height: 470px;
-  background: url(/video-z-pokhodiv/img/2.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/video-z-pokhodiv/img/2.png)
+    no-repeat center;
 }
 .Video-3 {
   max-width: 570px;
   margin-right: 16px;
   height: 470px;
-  background: url(/video-z-pokhodiv/img/3.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/video-z-pokhodiv/img/3.png)
+    no-repeat center;
 }
 .Video-4 {
   max-width: 570px;
   margin-left: 16px;
   height: 470px;
-  background: url(/video-z-pokhodiv/img/4.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/video-z-pokhodiv/img/4.png)
+    no-repeat center;
 }
 .Video-1-text {
   font-family: "Open Sans", sans-serif;

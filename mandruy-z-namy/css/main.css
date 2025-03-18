@@ -126,7 +126,8 @@ h1 {
 }
 .M-concept-box {
   height: 120px;
-  background: url(/mandruy-z-namy/img/slide.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/mandruy-z-namy/img/slide.png)
+    no-repeat center;
   max-width: 370px;
   margin: 0 auto;
 }
@@ -161,25 +162,29 @@ h1 {
   max-width: 570px;
   margin-right: 16px;
   height: 470px;
-  background: url(/mandruy-z-namy/img/1.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/mandruy-z-namy/img/1.png)
+    no-repeat center;
 }
 .M-2 {
   max-width: 570px;
   margin-left: 16px;
   height: 470px;
-  background: url(/mandruy-z-namy/img/2.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/mandruy-z-namy/img/2.png)
+    no-repeat center;
 }
 .M-3 {
   max-width: 570px;
   margin-right: 16px;
   height: 470px;
-  background: url(/mandruy-z-namy/img/3.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/mandruy-z-namy/img/3.png)
+    no-repeat center;
 }
 .M-4 {
   max-width: 570px;
   margin-left: 16px;
   height: 470px;
-  background: url(/mandruy-z-namy/img/4.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/mandruy-z-namy/img/4.png)
+    no-repeat center;
 }
 .M-1-text {
   font-family: "Open Sans", sans-serif;
@@ -275,14 +280,16 @@ h1 {
   padding-top: 24px;
 }
 .M-big {
-  background: url(/mandruy-z-namy/img/2-big.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/mandruy-z-namy/img/2-big.png)
+    no-repeat center;
   height: 586px;
   line-height: 586px;
   text-align: center;
   margin-top: 88px;
 }
 .M-big-2 {
-  background: url(/mandruy-z-namy/img/2-2-big.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/mandruy-z-namy/img/2-2-big.png)
+    no-repeat center;
   height: 586px;
   line-height: 586px;
   text-align: center;

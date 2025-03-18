@@ -102,7 +102,8 @@ h1 {
   max-width: 570px;
   margin-right: 16px;
   height: 470px;
-  background: url(/vidhuky/img/1.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/vidhuky/img/1.png)
+    no-repeat center;
   box-shadow: 0px 4px 5px #afb8c2;
   border-radius: 8px;
 }
@@ -110,7 +111,8 @@ h1 {
   max-width: 570px;
   margin-left: 16px;
   height: 470px;
-  background: url(/vidhuky/img/2.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/vidhuky/img/2.png)
+    no-repeat center;
   box-shadow: 0px 4px 5px #afb8c2;
   border-radius: 8px;
 }
@@ -118,7 +120,8 @@ h1 {
   max-width: 570px;
   margin-right: 16px;
   height: 470px;
-  background: url(/vidhuky/img/3.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/vidhuky/img/3.png)
+    no-repeat center;
   box-shadow: 0px 4px 5px #afb8c2;
   border-radius: 8px;
 }
@@ -126,7 +129,8 @@ h1 {
   max-width: 570px;
   margin-left: 16px;
   height: 470px;
-  background: url(/vidhuky/img/4.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/vidhuky/img/4.png)
+    no-repeat center;
   box-shadow: 0px 4px 5px #afb8c2;
   border-radius: 8px;
 }

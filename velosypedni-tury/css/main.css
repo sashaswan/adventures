@@ -29,7 +29,7 @@ p {
 }
 .b-main {
   background-attachment: scroll;
-  background-image: url(/velosypedni-tury/img/texture.png);
+  background-image: url(https://sashaswan.github.io/adventures/velosypedni-tury/img/texture.png);
   min-height: 100vh;
   background-attachment: fixed;
   padding-bottom: 208px;

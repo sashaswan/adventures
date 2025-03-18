@@ -126,7 +126,8 @@ h1 {
 }
 .V-concept-box {
   height: 120px;
-  background: url(/zapytannya/img/slide.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/zapytannya/img/slide.png)
+    no-repeat center;
   max-width: 370px;
   margin: 0 auto;
   box-shadow: 0px 4px 5px #afb8c2;
@@ -221,7 +222,8 @@ h1 {
   max-width: 570px;
   margin-right: 16px;
   height: 470px;
-  background: url(/zapytannya/img/1.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/zapytannya/img/1.png)
+    no-repeat center;
   box-shadow: 0px 4px 5px #afb8c2;
   border-radius: 8px;
 }
@@ -229,7 +231,8 @@ h1 {
   max-width: 570px;
   margin-left: 16px;
   height: 470px;
-  background: url(/zapytannya/img/2.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/zapytannya/img/2.png)
+    no-repeat center;
   box-shadow: 0px 4px 5px #afb8c2;
   border-radius: 8px;
 }
@@ -237,7 +240,8 @@ h1 {
   max-width: 570px;
   margin-right: 16px;
   height: 470px;
-  background: url(/zapytannya/img/3.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/zapytannya/img/3.png)
+    no-repeat center;
   box-shadow: 0px 4px 5px #afb8c2;
   border-radius: 8px;
 }
@@ -245,7 +249,8 @@ h1 {
   max-width: 570px;
   margin-left: 16px;
   height: 470px;
-  background: url(/zapytannya/img/4.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/zapytannya/img/4.png)
+    no-repeat center;
   box-shadow: 0px 4px 5px #afb8c2;
   border-radius: 8px;
 }

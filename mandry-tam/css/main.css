@@ -29,7 +29,7 @@ p {
 }
 .d-main {
   background-attachment: scroll;
-  background-image: url(/mandry-tam/img/texture.png);
+  background-image: url(https://sashaswan.github.io/adventures/mandry-tam/img/texture.png);
   min-height: 100vh;
   background-attachment: fixed;
   padding-bottom: 208px;

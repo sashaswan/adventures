@@ -125,25 +125,29 @@ h1 {
   max-width: 570px;
   margin-right: 16px;
   height: 470px;
-  background: url(/kontseptsiya/img/1.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/kontseptsiya/img/1.png)
+    no-repeat center;
 }
 .Ko-2 {
   max-width: 570px;
   margin-left: 16px;
   height: 470px;
-  background: url(/kontseptsiya/img/2.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/kontseptsiya/img/2.png)
+    no-repeat center;
 }
 .Ko-3 {
   max-width: 570px;
   margin-right: 16px;
   height: 470px;
-  background: url(/kontseptsiya/img/3.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/kontseptsiya/img/3.png)
+    no-repeat center;
 }
 .Ko-4 {
   max-width: 570px;
   margin-left: 16px;
   height: 470px;
-  background: url(/kontseptsiya/img/4.png) no-repeat center;
+  background: url(https://sashaswan.github.io/adventures/kontseptsiya/img/4.png)
+    no-repeat center;
 }
 .Ko-1-text {
   font-family: "Open Sans", sans-serif;

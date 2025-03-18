@@ -63,7 +63,7 @@ p, .h1, h1 {
 }
 .e-main {
     background-attachment: scroll;
-    background-image: url(/pokhid-horhanamy-khomyak-synyak/img/texture.png);
+    background-image: url(https://sashaswan.github.io/adventures/pokhid-horhanamy-khomyak-synyak/img/texture.png);
     min-height: 100vh;
     background-attachment: fixed;
     padding-bottom: 208px;
@@ -152,7 +152,7 @@ p, .h1, h1 {
 	height: 500px;
 	border-radius: 10px;
 	line-height: 500px;
-	background: url(/pokhid-horhanamy-khomyak-synyak/img/video-1.jpg) no-repeat center center;
+	background: url(https://sashaswan.github.io/adventures/pokhid-horhanamy-khomyak-synyak/img/video-1.jpg) no-repeat center center;
 	margin-top: 80px;
 }
 .e-play {
@@ -445,7 +445,7 @@ p, .h1, h1 {
 	height: 500px;
 	border-radius: 10px;
 	line-height: 500px;
-	background: url(/pokhid-horhanamy-khomyak-synyak/img/video-2.jpg) no-repeat center center;
+	background: url(https://sashaswan.github.io/adventures/pokhid-horhanamy-khomyak-synyak/img/video-2.jpg) no-repeat center center;
 	margin-top: 80px;
 	text-align: center;
 }

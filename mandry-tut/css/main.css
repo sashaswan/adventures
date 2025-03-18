@@ -2,7 +2,8 @@ p {
   margin-bottom: 0px;
 }
 .first-block {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/first.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/first.jpg")
+    no-repeat center center;
   background-size: auto;
   height: 800px;
   -webkit-background-size: cover;
@@ -71,7 +72,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/khomyak-synyak.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/khomyak-synyak.jpg")
+    no-repeat center center;
 }
 .syvulya-tour {
   max-width: 1845px;
@@ -85,7 +87,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/syvulya.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/syvulya.jpg")
+    no-repeat center center;
 }
 .svydovets-tour {
   max-width: 1845px;
@@ -99,7 +102,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/svydovets.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/svydovets.jpg")
+    no-repeat center center;
 }
 .dytjachyj-tour {
   max-width: 1845px;
@@ -113,7 +117,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/dytjachyj.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/dytjachyj.jpg")
+    no-repeat center center;
 }
 .chornogora-tour {
   max-width: 1845px;
@@ -127,7 +132,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/chornogora.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/chornogora.jpg")
+    no-repeat center center;
 }
 .marmarosy-tour {
   max-width: 1845px;
@@ -141,7 +147,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/marmarosy.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/marmarosy.jpg")
+    no-repeat center center;
 }
 .chyvchyny-tour {
   max-width: 1845px;
@@ -155,7 +162,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/chyvchyny.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/chyvchyny.jpg")
+    no-repeat center center;
 }
 .c-tittle-1 {
   float: left;
@@ -217,48 +225,62 @@ p {
 .c-popup-14 {
   max-width: 570px;
   height: 295px;
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-1.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-1.jpg")
+    no-repeat center center;
   margin: 0 auto;
   border-radius: 6px;
 }
 .c-popup-2 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-2.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-2.jpg")
+    no-repeat center center;
 }
 .c-popup-3 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-3.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-3.jpg")
+    no-repeat center center;
 }
 .c-popup-4 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-4.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-4.jpg")
+    no-repeat center center;
 }
 .c-popup-5 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-5.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-5.jpg")
+    no-repeat center center;
 }
 .c-popup-6 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-6.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-6.jpg")
+    no-repeat center center;
 }
 .c-popup-7 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-7.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-7.jpg")
+    no-repeat center center;
 }
 .c-popup-8 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-8.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-8.jpg")
+    no-repeat center center;
 }
 .c-popup-9 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-9.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-9.jpg")
+    no-repeat center center;
 }
 .c-popup-10 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-10.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-10.jpg")
+    no-repeat center center;
 }
 .c-popup-11 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-11.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-11.jpg")
+    no-repeat center center;
 }
 .c-popup-12 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-12.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-12.jpg")
+    no-repeat center center;
 }
 .c-popup-13 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-13.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-13.jpg")
+    no-repeat center center;
 }
 .c-popup-14 {
-  background: url(‘https://sashaswan.github.io/adventures/mandry-tut/img/video-14.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/mandry-tut/img/video-14.jpg")
+    no-repeat center center;
 }
 .play-button-c {
   line-height: 295px;

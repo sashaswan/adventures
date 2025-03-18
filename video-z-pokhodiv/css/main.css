@@ -4,7 +4,8 @@ h1 {
   margin-bottom: 0px;
 }
 .first-block {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/first.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/first.jpg")
+    no-repeat center center;
   background-size: auto;
   height: 800px;
   -webkit-background-size: cover;
@@ -229,19 +230,22 @@ h1 {
 .Video-big {
   margin-top: 48px;
   text-align: center;
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/big-1.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/big-1.png")
+    no-repeat center;
   height: 586px;
 }
 .Video-big-2 {
   margin-top: 48px;
   text-align: center;
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/2-big.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/2-big.png")
+    no-repeat center;
   height: 586px;
 }
 .Video-big-3 {
   margin-top: 48px;
   text-align: center;
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/3-big.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/3-big.png")
+    no-repeat center;
   height: 586px;
   line-height: 586px;
   text-align: center;
@@ -249,19 +253,22 @@ h1 {
 .Video-big-4 {
   margin-top: 48px;
   text-align: center;
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/4-big.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/4-big.png")
+    no-repeat center;
   height: 586px;
 }
 .Video-big-5 {
   margin-top: 30px;
   text-align: center;
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/5-big.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/5-big.png")
+    no-repeat center;
   height: 586px;
 }
 .Video-big-6 {
   margin-top: 56px;
   text-align: center;
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/6-big.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/6-big.png")
+    no-repeat center;
   height: 586px;
 }
 .Video-big-3 p {
@@ -278,7 +285,8 @@ h1 {
   text-align: center;
 }
 .Video-mini-back {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/1-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/1-mini.png")
+    no-repeat center;
   height: 410px;
   margin: 0 auto;
   margin-right: 16px;
@@ -286,13 +294,15 @@ h1 {
   text-align: center;
 }
 .Video-mini-back-2 {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/2-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/2-mini.png")
+    no-repeat center;
   height: 410px;
   margin: 0 auto;
   margin-left: 16px;
 }
 .Video-mini-back-3 {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/3-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/3-mini.png")
+    no-repeat center;
   height: 410px;
   margin: 0 auto;
   margin-right: 16px;
@@ -300,7 +310,8 @@ h1 {
   text-align: center;
 }
 .Video-mini-back-4 {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/4-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/4-mini.png")
+    no-repeat center;
   height: 410px;
   margin: 0 auto;
   margin-left: 16px;
@@ -308,7 +319,8 @@ h1 {
   text-align: center;
 }
 .Video-mini-back-5 {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/5-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/5-mini.png")
+    no-repeat center;
   height: 410px;
   margin: 0 auto;
   margin-right: 16px;
@@ -316,7 +328,8 @@ h1 {
   text-align: center;
 }
 .Video-mini-back-6 {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/6-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/6-mini.png")
+    no-repeat center;
   height: 410px;
   margin: 0 auto;
   margin-left: 16px;
@@ -324,24 +337,28 @@ h1 {
   text-align: center;
 }
 .Video-mini-back-7 {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/7-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/7-mini.png")
+    no-repeat center;
   height: 320px;
   margin: 0 auto;
   margin-right: 16px;
 }
 .Video-mini-back-8 {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/8-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/8-mini.png")
+    no-repeat center;
   height: 320px;
   margin: 0 auto;
 }
 .Video-mini-back-9 {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/9-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/9-mini.png")
+    no-repeat center;
   height: 320px;
   margin: 0 auto;
   margin-left: 16px;
 }
 .Video-mini-back-10 {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/10-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/10-mini.png")
+    no-repeat center;
   height: 410px;
   margin: 0 auto;
   margin-right: 16px;
@@ -349,7 +366,8 @@ h1 {
   text-align: center;
 }
 .Video-mini-back-11 {
-  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/11-mini.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/video-z-pokhodiv/img/11-mini.png")
+    no-repeat center;
   height: 410px;
   margin: 0 auto;
   margin-left: 16px;

@@ -2,7 +2,7 @@ p, .h1, h1 {
 	margin-bottom: 0px;
 }
 .first-block {
-    background: url(‘https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/first.jpg') no-repeat center center;
+    background: url('https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/first.jpg') no-repeat center center;
     background-size: auto;
     height: 1080px;
     -webkit-background-size: cover;
@@ -63,7 +63,7 @@ p, .h1, h1 {
 }
 .g-main {
     background-attachment: scroll;
-    background-image: url(‘https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/texture.png');
+    background-image: url('https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/texture.png');
     min-height: 100vh;
     background-attachment: fixed;
     padding-bottom: 208px;
@@ -152,7 +152,7 @@ p, .h1, h1 {
 	height: 500px;
 	border-radius: 10px;
 	line-height: 500px;
-	background: url(‘https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/svydovets-video.jpg') no-repeat center center;
+	background: url('https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/svydovets-video.jpg') no-repeat center center;
 	margin-top: 80px;
 }
 .g-play {
@@ -445,7 +445,7 @@ p, .h1, h1 {
 	height: 612px;
 	border-radius: 10px;
 	line-height: 500px;
-	background: url(‘https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/video-svydovets.jpg') no-repeat center center;
+	background: url('https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/video-svydovets.jpg') no-repeat center center;
 	margin-top: 80px;
 	text-align: center;
 }
@@ -502,7 +502,7 @@ p, .h1, h1 {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/chornogora.jpg') no-repeat center center;
+  background: url('https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/chornogora.jpg') no-repeat center center;
 }
 .g-loc-top {
 	margin: 0 auto;
@@ -561,10 +561,10 @@ p, .h1, h1 {
 	border-radius: 6px;
 }
 .g-popup-13 {
-	background: url(‘https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/video-13.jpg') no-repeat center center;
+	background: url('https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/video-13.jpg') no-repeat center center;
 }
 .g-popup-14 {
-	background: url(‘https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/video-14.jpg') no-repeat center center;
+	background: url('https://sashaswan.github.io/adventures/svydovetskyy-masyv-drahobrat/img/video-14.jpg') no-repeat center center;
 }
 .play-button-g {
 	line-height: 295px;

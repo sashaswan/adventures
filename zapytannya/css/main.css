@@ -4,7 +4,8 @@ h1 {
   margin-bottom: 0px;
 }
 .first-block {
-  background: url(‘https://sashaswan.github.io/adventures/zapytannya/img/first.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/zapytannya/img/first.jpg")
+    no-repeat center center;
   background-size: auto;
   height: 540px;
   -webkit-background-size: cover;

@@ -139,7 +139,8 @@ h1 {
   max-width: 570px;
 }
 .adventure-pic {
-  background: url(‘https://sashaswan.github.io/adventures/kontakty/img/picture-adventures.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/kontakty/img/picture-adventures.png")
+    no-repeat center;
   height: 628px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -179,7 +180,8 @@ h1 {
   padding-top: 13px;
 }
 .contact-back-1 {
-  background: url(‘https://sashaswan.github.io/adventures/kontakty/img/1.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/kontakty/img/1.png")
+    no-repeat center;
   height: 410px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -187,7 +189,8 @@ h1 {
   background-size: cover;
 }
 .contact-back-2 {
-  background: url(‘https://sashaswan.github.io/adventures/kontakty/img/2.png') no-repeat center;
+  background: url("https://sashaswan.github.io/adventures/kontakty/img/2.png")
+    no-repeat center;
   height: 410px;
   -webkit-background-size: cover;
   -moz-background-size: cover;

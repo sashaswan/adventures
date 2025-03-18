@@ -2,7 +2,8 @@ p {
   margin-bottom: 0px;
 }
 .first-block {
-  background: url(‘https://sashaswan.github.io/adventures/velosypedni-tury/img/first.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/velosypedni-tury/img/first.jpg")
+    no-repeat center center;
   background-size: auto;
   height: 800px;
   -webkit-background-size: cover;
@@ -67,7 +68,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/velosypedni-tury/img/velo-hoverla-petros.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/velosypedni-tury/img/velo-hoverla-petros.jpg")
+    no-repeat center center;
 }
 .svydovets-tour {
   max-width: 1845px;
@@ -81,7 +83,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/velosypedni-tury/img/velo-2.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/velosypedni-tury/img/velo-2.jpg")
+    no-repeat center center;
 }
 .chyvyny-tour {
   max-width: 1845px;
@@ -95,7 +98,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url(‘https://sashaswan.github.io/adventures/velosypedni-tury/img/velo-3.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/velosypedni-tury/img/velo-3.jpg")
+    no-repeat center center;
 }
 .b-tittle-1 {
   max-width: 490px;
@@ -149,26 +153,32 @@ p {
 .b-popup-6 {
   max-width: 570px;
   height: 295px;
-  background: url(‘https://sashaswan.github.io/adventures/velosypedni-tury/img/video-1.png') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/velosypedni-tury/img/video-1.png")
+    no-repeat center center;
   margin: 0 auto;
   margin-left: 16px;
   margin-right: 16px;
   border-radius: 6px;
 }
 .b-popup-2 {
-  background: url(‘https://sashaswan.github.io/adventures/velosypedni-tury/img/video-2.png') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/velosypedni-tury/img/video-2.png")
+    no-repeat center center;
 }
 .b-popup-3 {
-  background: url(‘https://sashaswan.github.io/adventures/velosypedni-tury/img/video-3.png') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/velosypedni-tury/img/video-3.png")
+    no-repeat center center;
 }
 .b-popup-4 {
-  background: url(‘https://sashaswan.github.io/adventures/velosypedni-tury/img/video-4.png') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/velosypedni-tury/img/video-4.png")
+    no-repeat center center;
 }
 .b-popup-5 {
-  background: url(‘https://sashaswan.github.io/adventures/velosypedni-tury/img/video-5.png') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/velosypedni-tury/img/video-5.png")
+    no-repeat center center;
 }
 .b-popup-6 {
-  background: url(‘https://sashaswan.github.io/adventures/velosypedni-tury/img/video-6.png') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/velosypedni-tury/img/video-6.png")
+    no-repeat center center;
 }
 .play-button-b {
   line-height: 295px;

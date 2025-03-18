@@ -9,7 +9,8 @@ body {
   line-height: 1;
 }
 .a-head {
-  background: url(‘https://sashaswan.github.io/adventures/img/daty-pokhodiv/a-head.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/daty-pokhodiv/a-head.jpg")
+    no-repeat center center;
   height: 540px;
   -webkit-background-size: cover;
   -moz-background-size: cover;

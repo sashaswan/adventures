@@ -4,7 +4,8 @@ h1 {
   margin-bottom: 0px;
 }
 .first-block {
-  background: url(‘https://sashaswan.github.io/adventures/istoriyi/img/first.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/istoriyi/img/first.jpg")
+    no-repeat center center;
   background-size: auto;
   height: 1080px;
   -webkit-background-size: cover;

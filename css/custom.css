@@ -1,406 +1,457 @@
-@media only screen and (max-width : 1440px) { 
-	.menu {
-	    right: 50px;
-	}
+@media only screen and (max-width: 1440px) {
+  .menu {
+    right: 50px;
+  }
 }
-@media only screen and (max-width : 1368px) { 
-.menu {
-	    display: none;
-	}
-}	
-@media only screen and (max-width : 1680px) { 
-	.main_sub {
-		margin: 0 auto;
-	}
-	.team {
-		padding-left: 16px;
-		padding-right: 16px;
-	}
-	.content-ready, .content-ready-3, .content-ready-5, .content-ready-7 {
-    	margin-right: 16px;
-  	}
-  	.content-ready-2, .content-ready-4, .content-ready-6, .content-ready-8 {
-    	margin-left: 16px;
-  	}
-	.check-details {
-		margin-left: 0px;
-	}
-	.footer-container {
-		padding-left: 16px;
-		padding-right: 16px;
-	}
-	.bicycles {
-		padding-left: 16px;
-		padding-right: 16px;
-	}
-}	
-@media only screen and (max-width : 1200px) { 
-	#get_news {
-		margin-right: 16px;
-	}
-	.team-1 {
-		padding-right: 16px;
-		text-align: center;
-	}
-	.team-2, .team-3 {
-		padding-left: 16px;
-		text-align: center;
-	}
-	.reviews {
-		padding-left: 16px;
-		padding-right: 16px;
-	}
-	.pre-footer-content {
-		margin-left: 16px;
-		margin-right: 16px;
-	}
-	.review-new {
-		margin: 0 auto;
-	}
-	.bicycles {
-		padding-left: 0px;
-		padding-right: 0px;
-	}
+@media only screen and (max-width: 1368px) {
+  .menu {
+    display: none;
+  }
 }
-@media only screen and (max-width: 1024px) { 
-	.end-btn, .another-end {
-		font-size: 18px;
-	}
-	.ipad-padding {
-		margin-left: 16px;
-		margin-right: 16px;
-	}
-	.ipad-padding-1{
-		margin-left: 16px;
-	}
-	.ipad-padding-2 {
-		margin-right: 16px;
-	}
-	.svydovets-icon {
-		right: 11px;
-	}
-}		
-@media only screen and (max-width: 1023px) { 
-	.team-top {
-		padding-top: 48px;
-	}
-	.team-1, .another-team, .team-2, .team-3 {
-		text-align: center;
-	}
-	.petros, .chyvyn, .video-2, .video-3 {
-		margin: 0 auto;
-	}
-	.bicycles-center, .center-video {
-		justify-content: center;
-	}
-	.petros, .chyvyn {
-		margin-top: 24px;
-	}
-	.video-3 {
-		margin-top: 56px;
-	}
-	.svydovets {
-		margin: 0 auto;
-		margin-top: 24px;
-	}
-	.video-2, .video-1 {
-		margin-top: 56px;
-	}
-	.white-button, .carrot-button {
-		margin: 0 auto;
-		margin-bottom: 24px;
-	}
-	.information-button-2 {
-		padding-top: 16px;
-	}
-	.information-1, .information-button-2 {
-		justify-content: center;
-	}
-	.main_news {
-	    margin-left: auto;
-	    margin-right: auto;
-	    flex-direction: column;
-	}
-	.build {
-    	flex-direction: column;
-	}
-	.right_news {
-		margin: 0 auto;
-	}
-	.build > div {
-		padding-top: 24px;
-	}
-	#get_news, .left_news {
-		margin-top: 24px;
-		margin-bottom: 24px;
-	}
-	.news_title {
-		padding-top: 0px;
-	}
-	.left_news {
-		padding: 0px;
-	}
-	.team-1 {
-		padding-right: 0px;
-	}
-	.team-2, .team-3 {
-		padding-left: 0px;
-	}
-	.info-1 {
-		margin: 0 auto;
-	}
-	.white-end {
-		margin: 0 auto;
-		margin-bottom: 24px;
-	}
-	.pre-footer-content {
-		display: block;
-	}
-	.date-end {
-		padding-top: 16px;
-		justify-content: center;
-	}
-	.pre-footer {
-		text-align: center;
-	}
-	.copyright-1 {
-		text-align: center;
-	}
-	.svydovets, .petros{
-		margin-right: 16px;
-	}
-	.video-1, .video-2{
-		margin-right: 16px;
-	}
-	.svydovets-icon {
-		display: none;
-	}
-	.svydovets-text, .petros-text, .chyvyn-text {
-		font-size: 14px;
-	}
-	.svydovets-icon {
-		right: 24px;
-	}
-}	
-@media only screen and (max-width : 840px) { 
-	.carpatains-text, .mountain-text {
-		font-size: 32px;
-	}
-	.carpatains-1, .mountain-1 {
-		max-width: 300px;
-		margin: 0 auto;
-	}
-	.left-tittle {
-		max-width: 512px;
-		padding-left: 16px;
-	}
-	.montblanc-text {
-		max-width: 612px;
-	}
-	.tenerife-text {
-		max-width: 555px;
-	}
+@media only screen and (max-width: 1680px) {
+  .main_sub {
+    margin: 0 auto;
+  }
+  .team {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .content-ready,
+  .content-ready-3,
+  .content-ready-5,
+  .content-ready-7 {
+    margin-right: 16px;
+  }
+  .content-ready-2,
+  .content-ready-4,
+  .content-ready-6,
+  .content-ready-8 {
+    margin-left: 16px;
+  }
+  .check-details {
+    margin-left: 0px;
+  }
+  .footer-container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .bicycles {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
-@media only screen and (max-width : 639px) {  
-	.tittle-h1 {
-		font-size: 32px;
-	}
-	.tittle-h2 {
-		font-size: 16px;
-	}
-	.carpatains-1, .mountain-1 {
-		max-width: 258px;
-		margin: 0 auto;
-	}
-	.left-tittle {
-    	max-width: 314px;
-	}
-	.tenerife-text {
-		max-width: 355px;
-	}
-	.mountain-1 {
-		margin-top: 48px;
-	}
-	.top-btn {
-		margin-top: 128px;
-	}
-	.left-content, .another-color {
-		font-size: 32px;
-	}
-	.info-block {
-		padding-left: 16px;
-		padding-right: 16px;
-	}
-	.info-block-1 {
-		padding-left: 16px;
-	}
-	.date-1, .date-2 {
-		font-size: 16px;
-	}
-	.content-ready, .content-ready-3, .content-ready-2, .content-ready-4, .content-ready-5, .content-ready-6, .content-ready-7, .content-ready-8 {
-		margin: 0 auto;
-		margin-top:32px;
-	}
-	.expedition, .expedition-1 {
-		font-size: 16px;
-	}
-	.review-block {
-		background: url('/img/video.png') repeat center center;
-		background-size: cover;
-		padding-bottom: 72px;
-	}
-	.review-2 {
-		margin-top: 40px;
-	}
-	.news_title {
-	    font-size: 17px;
-	    padding-left: 8px;
-	    padding-right: 8px;
-	}
-	.ready-2 {
-		margin-top: 0px;
-	}
-	.build > div {
-		margin: 0 auto;
-	}
-	.right_news {
-		text-align: center;
-	}
-	#get_news, .left_news {
-		margin-left: auto;
-		margin-right: auto;
-	}
-	#news_border  {
-		width: 300px;
-	}
-	.dreams {
-		font-size: 36px;
-	}
-	.date-end {
-		padding-top: 48px;
-	}
-	.pre-footer-content {
-		padding-top: 32px;
-	}
-	.sub-dreams {
-		font-size: 16px;
-		padding-left: 16px;
-		padding-right: 16px;
-	}
-	.sub-dreams-2 {
-		font-size: 16px;
-	}
-	#position-1 {
-		order: 1;
-	}
-	#position-2 {
-		order: 2;
-	}
-	#position-3 {
-		order: 1;
-	}
-	#position-4 {
-		order: 0;
-		margin-top: 24px;
-	}
-	#position-5 {
-		order: 3;
-	}
-	#position-6 {
-		order: 2;
-	}
-	.video-1 {
-		margin: 0 auto;
-	}
-	.svydovets-text, .petros-text, .chyvyn-text {
-		font-size: 16px;
-	}
-	.svydovets, .petros {
-		margin: 0 auto;
-		margin-top: 24px;
-	}
-	.video-1, .video-2 {
-		margin:0 auto;
-		margin-top: 56px;
-	}
-	.left-content, .another-color {
-		font-size: 28px;
-	}
-	.team {
-		padding-top: 144px;
-	}
-	.ready-left-1, .ready-left-2 {
-		padding-top: 80px;
-		padding-bottom: 16px;
-	}
-	.bicycles {
-		padding-top: 80px;
-	}
-	.bicycles-title {
-		padding-bottom: 0px;
-	}
-	.information-button {
-		margin-top: 112px;
-	}
-	.reviews {
-		padding-top: 144px;
-	}
-	.end-btn {
-		padding-top: 54px;
-	}
-	.copyright-last {
-		max-width: 241px;
-		margin: 0 auto;
-	}
-	.end-btn, .another-end {
-		font-size: 22px;
-	}
-}	
-@media only screen and (max-width : 375px) {  
-	.info-block-1 {
-		height: auto;
-		padding-bottom: 24px;
-		padding-left: 16px;
-	}
-	.left-tittle {
-    	max-width: 256px;
-	}
-	.left-content, .another-color {
-		font-size: 25px;
-	}
-	.svydovets-icon {
-		display: none;
-	}
-	.date-1, .date-2 {
-    	font-size: 15px;
-	}
-	.text-r-1, .text-r-2 {
-		font-size: 18px;
-	}
-	#news_border {
-		width: 256px;
-	}
-	.end-btn{
-		font-size: 18px;
-	}
-	.another-end {
-		font-size: 18px;
-	}
-	.svydovets-icon {
-		right: 8px;
-	}
-	.date-end {
-		padding-bottom: 16px;
-	}
-}	
-@media only screen and (max-width : 320px) {
-	.date-1, .date-2 {
-    	font-size: 14px;
-	}
-	.left-content {
-		padding-right: 8px;
-	}
-	.expedition-1 {
-		padding-top: 8px;
-	}
-}	
+@media only screen and (max-width: 1200px) {
+  #get_news {
+    margin-right: 16px;
+  }
+  .team-1 {
+    padding-right: 16px;
+    text-align: center;
+  }
+  .team-2,
+  .team-3 {
+    padding-left: 16px;
+    text-align: center;
+  }
+  .reviews {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .pre-footer-content {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .review-new {
+    margin: 0 auto;
+  }
+  .bicycles {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .end-btn,
+  .another-end {
+    font-size: 18px;
+  }
+  .ipad-padding {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+  .ipad-padding-1 {
+    margin-left: 16px;
+  }
+  .ipad-padding-2 {
+    margin-right: 16px;
+  }
+  .svydovets-icon {
+    right: 11px;
+  }
+}
+@media only screen and (max-width: 1023px) {
+  .team-top {
+    padding-top: 48px;
+  }
+  .team-1,
+  .another-team,
+  .team-2,
+  .team-3 {
+    text-align: center;
+  }
+  .petros,
+  .chyvyn,
+  .video-2,
+  .video-3 {
+    margin: 0 auto;
+  }
+  .bicycles-center,
+  .center-video {
+    justify-content: center;
+  }
+  .petros,
+  .chyvyn {
+    margin-top: 24px;
+  }
+  .video-3 {
+    margin-top: 56px;
+  }
+  .svydovets {
+    margin: 0 auto;
+    margin-top: 24px;
+  }
+  .video-2,
+  .video-1 {
+    margin-top: 56px;
+  }
+  .white-button,
+  .carrot-button {
+    margin: 0 auto;
+    margin-bottom: 24px;
+  }
+  .information-button-2 {
+    padding-top: 16px;
+  }
+  .information-1,
+  .information-button-2 {
+    justify-content: center;
+  }
+  .main_news {
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+  }
+  .build {
+    flex-direction: column;
+  }
+  .right_news {
+    margin: 0 auto;
+  }
+  .build > div {
+    padding-top: 24px;
+  }
+  #get_news,
+  .left_news {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  .news_title {
+    padding-top: 0px;
+  }
+  .left_news {
+    padding: 0px;
+  }
+  .team-1 {
+    padding-right: 0px;
+  }
+  .team-2,
+  .team-3 {
+    padding-left: 0px;
+  }
+  .info-1 {
+    margin: 0 auto;
+  }
+  .white-end {
+    margin: 0 auto;
+    margin-bottom: 24px;
+  }
+  .pre-footer-content {
+    display: block;
+  }
+  .date-end {
+    padding-top: 16px;
+    justify-content: center;
+  }
+  .pre-footer {
+    text-align: center;
+  }
+  .copyright-1 {
+    text-align: center;
+  }
+  .svydovets,
+  .petros {
+    margin-right: 16px;
+  }
+  .video-1,
+  .video-2 {
+    margin-right: 16px;
+  }
+  .svydovets-icon {
+    display: none;
+  }
+  .svydovets-text,
+  .petros-text,
+  .chyvyn-text {
+    font-size: 14px;
+  }
+  .svydovets-icon {
+    right: 24px;
+  }
+}
+@media only screen and (max-width: 840px) {
+  .carpatains-text,
+  .mountain-text {
+    font-size: 32px;
+  }
+  .carpatains-1,
+  .mountain-1 {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  .left-tittle {
+    max-width: 512px;
+    padding-left: 16px;
+  }
+  .montblanc-text {
+    max-width: 612px;
+  }
+  .tenerife-text {
+    max-width: 555px;
+  }
+}
+@media only screen and (max-width: 639px) {
+  .tittle-h1 {
+    font-size: 32px;
+  }
+  .tittle-h2 {
+    font-size: 16px;
+  }
+  .carpatains-1,
+  .mountain-1 {
+    max-width: 258px;
+    margin: 0 auto;
+  }
+  .left-tittle {
+    max-width: 314px;
+  }
+  .tenerife-text {
+    max-width: 355px;
+  }
+  .mountain-1 {
+    margin-top: 48px;
+  }
+  .top-btn {
+    margin-top: 128px;
+  }
+  .left-content,
+  .another-color {
+    font-size: 32px;
+  }
+  .info-block {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .info-block-1 {
+    padding-left: 16px;
+  }
+  .date-1,
+  .date-2 {
+    font-size: 16px;
+  }
+  .content-ready,
+  .content-ready-3,
+  .content-ready-2,
+  .content-ready-4,
+  .content-ready-5,
+  .content-ready-6,
+  .content-ready-7,
+  .content-ready-8 {
+    margin: 0 auto;
+    margin-top: 32px;
+  }
+  .expedition,
+  .expedition-1 {
+    font-size: 16px;
+  }
+  .review-block {
+    background: url("https://sashaswan.github.io/adventures/img/video.png")
+      repeat center center;
+    background-size: cover;
+    padding-bottom: 72px;
+  }
+  .review-2 {
+    margin-top: 40px;
+  }
+  .news_title {
+    font-size: 17px;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  .ready-2 {
+    margin-top: 0px;
+  }
+  .build > div {
+    margin: 0 auto;
+  }
+  .right_news {
+    text-align: center;
+  }
+  #get_news,
+  .left_news {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #news_border {
+    width: 300px;
+  }
+  .dreams {
+    font-size: 36px;
+  }
+  .date-end {
+    padding-top: 48px;
+  }
+  .pre-footer-content {
+    padding-top: 32px;
+  }
+  .sub-dreams {
+    font-size: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .sub-dreams-2 {
+    font-size: 16px;
+  }
+  #position-1 {
+    order: 1;
+  }
+  #position-2 {
+    order: 2;
+  }
+  #position-3 {
+    order: 1;
+  }
+  #position-4 {
+    order: 0;
+    margin-top: 24px;
+  }
+  #position-5 {
+    order: 3;
+  }
+  #position-6 {
+    order: 2;
+  }
+  .video-1 {
+    margin: 0 auto;
+  }
+  .svydovets-text,
+  .petros-text,
+  .chyvyn-text {
+    font-size: 16px;
+  }
+  .svydovets,
+  .petros {
+    margin: 0 auto;
+    margin-top: 24px;
+  }
+  .video-1,
+  .video-2 {
+    margin: 0 auto;
+    margin-top: 56px;
+  }
+  .left-content,
+  .another-color {
+    font-size: 28px;
+  }
+  .team {
+    padding-top: 144px;
+  }
+  .ready-left-1,
+  .ready-left-2 {
+    padding-top: 80px;
+    padding-bottom: 16px;
+  }
+  .bicycles {
+    padding-top: 80px;
+  }
+  .bicycles-title {
+    padding-bottom: 0px;
+  }
+  .information-button {
+    margin-top: 112px;
+  }
+  .reviews {
+    padding-top: 144px;
+  }
+  .end-btn {
+    padding-top: 54px;
+  }
+  .copyright-last {
+    max-width: 241px;
+    margin: 0 auto;
+  }
+  .end-btn,
+  .another-end {
+    font-size: 22px;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .info-block-1 {
+    height: auto;
+    padding-bottom: 24px;
+    padding-left: 16px;
+  }
+  .left-tittle {
+    max-width: 256px;
+  }
+  .left-content,
+  .another-color {
+    font-size: 25px;
+  }
+  .svydovets-icon {
+    display: none;
+  }
+  .date-1,
+  .date-2 {
+    font-size: 15px;
+  }
+  .text-r-1,
+  .text-r-2 {
+    font-size: 18px;
+  }
+  #news_border {
+    width: 256px;
+  }
+  .end-btn {
+    font-size: 18px;
+  }
+  .another-end {
+    font-size: 18px;
+  }
+  .svydovets-icon {
+    right: 8px;
+  }
+  .date-end {
+    padding-bottom: 16px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .date-1,
+  .date-2 {
+    font-size: 14px;
+  }
+  .left-content {
+    padding-right: 8px;
+  }
+  .expedition-1 {
+    padding-top: 8px;
+  }
+}

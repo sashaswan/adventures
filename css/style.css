@@ -1,22 +1,23 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,600,700,800&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,600,700,800&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800&display=swap");
 body {
-	margin: 0;
+  margin: 0;
 }
 p {
-	margin-bottom: 0px;
+  margin-bottom: 0px;
 }
-.first-block {	
-	background: url('/img/background1.jpg') no-repeat center center;
-	height: 1080px;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+.first-block {
+  background: url("https://sashaswan.github.io/adventures/img/background1.jpg")
+    no-repeat center center;
+  height: 1080px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .logo-size {
-	width: 120px; 
-	height: 32px;
+  width: 120px;
+  height: 32px;
 }
 .centered-block {
   max-width: 1120px;
@@ -25,7 +26,7 @@ p {
 }
 .tittle-h1 {
   text-shadow: 0 4px 15px rgba(67, 78, 82, 0.35);
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 52px;
   font-weight: 800;
   font-stretch: normal;
@@ -37,7 +38,7 @@ p {
 }
 .tittle-h2 {
   text-shadow: 0 4px 15px rgba(67, 78, 82, 0.35);
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 26px;
   font-weight: normal;
   font-stretch: normal;
@@ -56,7 +57,7 @@ p {
   cursor: pointer;
 }
 .choose-text {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   font-weight: bold;
   font-stretch: normal;
@@ -70,7 +71,8 @@ p {
 .choose-text:hover {
   border-bottom: none;
 }
-.carpatains-1, .mountain-1 {
+.carpatains-1,
+.mountain-1 {
   display: flex;
   justify-content: center;
   max-width: 387px;
@@ -80,15 +82,17 @@ p {
   background-image: linear-gradient(to bottom, #ffffff, rgba(73, 67, 67, 0));
   cursor: pointer;
 }
-.carpatains-1:hover, .mountain-1:hover {
+.carpatains-1:hover,
+.mountain-1:hover {
   background-image: linear-gradient(to top, #ffffff, rgba(73, 67, 67, 0));
 }
 .top-btn {
   margin-top: 224px;
   justify-content: center;
 }
-.carpatains-text, .mountain-text {
-  font-family: 'Open Sans', sans-serif;
+.carpatains-text,
+.mountain-text {
+  font-family: "Open Sans", sans-serif;
   font-size: 44px;
   font-weight: 800;
   line-height: 110px;
@@ -99,8 +103,8 @@ p {
   margin-bottom: 0px;
 }
 .main-block {
-  background: url(/img/compressed/texture_main.webp);
-  background-image: url(/img/texture_main.png);
+  background: url(https://sashaswan.github.io/adventures/img/compressed/texture_main.webp);
+  background-image: url(https://sashaswan.github.io/adventures/img/texture_main.png);
   min-height: 100vh;
   background-attachment: fixed;
   padding-bottom: 104px;
@@ -121,7 +125,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/img/dolomites_tour.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/dolomites_tour.jpg")
+    no-repeat center center;
 }
 .montblanc-content {
   margin-left: 16px;
@@ -130,7 +135,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/img/montblanc.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/montblanc.jpg")
+    no-repeat center center;
 }
 .tenerife-content {
   margin-left: 16px;
@@ -139,7 +145,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/img/tenerife.jpg') no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/tenerife.jpg")
+    no-repeat center center;
 }
 .left-tittle {
   max-width: 760px;
@@ -153,9 +160,10 @@ p {
 .tenerife-text {
   max-width: 891px;
 }
-.left-content, .another-color {
+.left-content,
+.another-color {
   text-shadow: 0 4px 5px rgba(0, 0, 0, 0.25);
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 44px;
   font-weight: 600;
   font-stretch: normal;
@@ -178,11 +186,15 @@ p {
   margin: 0 auto;
   height: 256px;
   border-radius: 8px;
-  background-image: linear-gradient(to bottom, rgba(195, 61, 0, 0.85), rgba(195, 61, 0, 0.1));
+  background-image: linear-gradient(
+    to bottom,
+    rgba(195, 61, 0, 0.85),
+    rgba(195, 61, 0, 0.1)
+  );
   padding-left: 24px;
 }
 .expedition {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 18px;
   font-weight: 600;
   font-stretch: normal;
@@ -194,7 +206,7 @@ p {
   margin: 0;
 }
 .date {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   font-weight: 400;
   font-stretch: normal;
@@ -206,7 +218,7 @@ p {
   margin: 0;
 }
 .date-1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 18px;
   font-weight: 500;
   font-stretch: normal;
@@ -218,7 +230,7 @@ p {
   margin: 0;
 }
 .date-2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 18px;
   font-weight: 500;
   font-stretch: normal;
@@ -230,7 +242,7 @@ p {
   margin: 0;
 }
 .activity {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 14px;
   font-weight: normal;
   font-stretch: normal;
@@ -242,7 +254,7 @@ p {
   margin: 0;
 }
 .expedition-1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 18px;
   font-weight: 500;
   font-stretch: normal;
@@ -263,8 +275,8 @@ p {
   cursor: pointer;
 }
 .info-text {
-  margin:0;
-  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
   font-size: 20px;
   font-weight: bold;
   font-stretch: normal;
@@ -277,787 +289,844 @@ p {
 }
 .info-button:hover {
   background-color: #c0c8cb;
-
 }
 /* DOTS */
-  .menu {
-    position: fixed;
-    top: 50%;
-    right: 85px;
-    transform: translateY(-50%);
-    display: block;
-    z-index: 1;
-  }
-  .menu .dot {
-    display: block;
-    margin-bottom: 16px;
-    border-radius: 10px;
-    width: 14px;
-    height: 14px;
-    border: solid 1px rgb(255, 255, 255);
-    cursor: pointer;
-    color: #000;
-    text-decoration: none;
-    padding:0;
-  }
-  .menu .dot, .menu .dot:hover, .menu .dot span {
-    transition: all 200ms ease;
-  }
-  .menu .dot:hover, .menu .dot.active {
-    background-color: rgb(255, 255, 255);
-  }
-  .menu .dot:hover span, .menu .dot.active span {
-    opacity: 1;.menu .dot
-  }
-  .menu .dot:hover span.forty, .menu .dot.active span.forty {
-    transform: translate(-45px, -3px);
-  }
-  .menu .dot:hover span.sixty, .menu .dot.active span.sixty {
-    transform: translate(-60px, -3px);
-  }
-  .menu .dot span {
-    font-size: 12px;
-    display: block;
-    transform: translate(0, -3px);
-    opacity: 0;
-  }
-  .right-icon {
-    position: absolute;
-    bottom: 40px;
-    right: 40px;
-  }
-  .team {
-    padding-top: 224px;
-    text-align: center;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-  .team-tittle {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 44px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.23;
-    letter-spacing: normal;
-    color: #f9f9fa;
-    margin-bottom: 0px;
-  }
-  .team-grid {
-    padding-top: 92px;
-    justify-content: center;
-  }
-  .info-1 {
-    padding-top: 32px;
-    max-width: 360px;
-  }
-  .team-1, .another-team {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.3;
-    letter-spacing: 0.04px;
-    color: #f9f9fa;
-    text-align: left;
-    margin-bottom: 0px;
-  }
-  .another-team {
-    font-weight: bold;
-  }
-  .team-2, .team-3 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.3;
-    letter-spacing: 0.04px;
-    color: #f9f9fa;
-    text-align: left;
-    margin-bottom: 0px;
-  }
-  .ready {
-    text-align: center;
-    padding-top: 72px;
-    margin: 0 auto;
-  }
-  .ready-tittle, .another-ready {
-    text-shadow: 0 4px 4px rgba(150, 47, 47, 0.25);
-    font-family: 'Montserrat', sans-serif;
-    font-size: 52px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.23;
-    letter-spacing: 0.1px;
-    color: #f9f9fa;
-    margin-bottom: 0px;
-  }
-  .another-ready {
-    color: #c33d00;
-    text-shadow: 0 4px 4px rgba(150, 47, 47, 0.25);
-  }
-  .ready-left-1 {
-    padding-top: 144px;
-    padding-bottom: 56px;
-  }
-  .ready-left-2 {
-    padding-top: 184px;
-    padding-bottom: 56px;
-  }
-  .ready-left {
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-    font-family: 'Open Sans', sans-serif;
-    font-size: 32px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.25;
-    letter-spacing: 0.03px;
-    color: #f9f9fa;
-    text-align: left;
-    margin-bottom: 0px;
-  }
-  .content-ready, .content-ready-3, .content-ready-5, .content-ready-7 {
-    max-width: 560px;
-    height: 329px;
-    object-fit: contain;
-    border-radius: 8px;
-    box-shadow: 0 4px 15px 0 rgba(196, 196, 196, 0.25);
-    background: url('/img/block-6/syvulya.jpg') no-repeat center center;
-  }
-  .content-ready-3 {
-    background: url('/img/block-6/svydovets.jpg') no-repeat center center;
-  }
-  .content-ready-5 {
-    background: url('/img/block-7/yordaniya.jpg') no-repeat center center;
-  }
-  .content-ready-7 {
-    background: url('/img/block-7/rodnyanski-alpy.jpg') no-repeat center center;
-  }
-  .content-ready-2, .content-ready-4, .content-ready-6, .content-ready-8  {
-    max-width: 560px;
-    height: 329px;
-    object-fit: contain;
-    border-radius: 8px;
-    box-shadow: 0 4px 15px 0 rgba(196, 196, 196, 0.25);
-    background: url('/img/block-6/khomyak-synyak.jpg') no-repeat center center;
-  }
-  .content-ready-4 {
-    background: url('/img/block-6/dytyachyy-pokhid.jpg') no-repeat center center;
-  }
-  .content-ready-6 {
-    background: url('/img/block-7/likiyska-stezhka.jpg') no-repeat center center;
-  }
-  .content-ready-8 {
-    background: url('/img/block-7/maternhorn-montrose.jpg') no-repeat center center;
-  }
-  .text-r-1 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 26px;
-    font-weight: 800;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.6;
-    letter-spacing: 0.04px;
-    color: #f9f9fa;
-    padding-top: 99px;
-    margin-bottom: 0px;
-  }
-  .text-r-2 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.6;
-    letter-spacing: 0.04px;
-    color: #f9f9fa;
-    margin-bottom: 0px;
-  }
-  .more-info {
-    max-width: 129px;
-    height: 32px;
-    border-radius: 20px;
-    background-color: #c33d00;
-    margin: 0 auto;
-    margin-top: 29px;
-    cursor: pointer;
-  }
-  .more-info:hover {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-    background-color: #cd5b26;
-  }
-  .more-text {
-    line-height: 29px;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    letter-spacing: 0.01px;
-    color: #f9f9fa;
-  }
-  .ready-2 {
-    margin-top: 40px;
-  }
-  .check-details {
-    float: right;
-    padding-right: 42px;
-    margin-top: 48px;
-    margin-left: auto;
-  }
-  .check-1 {
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-    font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: italic;
-    line-height: 2.22;
-    letter-spacing: 0.02px;
-    color: #f9f9fa;
-    border-bottom: 4px solid #c33d00;
-    padding-bottom: 4px;
-    cursor: pointer;
-  }
-  .check-1:hover {
-    border-bottom: none;
-  }
-  .bicycles {
-    margin: 0 auto;
-    padding-top: 184px;
-  }
-  .bicycles-title, .bicycles-another  {
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-    font-family: 'Open Sans', sans-serif;
-    font-size: 32px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.25;
-    letter-spacing: 0.03px;
-    color: #ffffff;
-    text-align: left;
-    margin-bottom: 0px;
-    padding-bottom: 56px;
-  }
-  .bicycles-another {
-	  color: #c33d00;
-  }
-  .svydovets, .petros, .chyvyn {
-    display: flex;
-    max-width: 360px;
-    height: 87px;
-    border-radius: 4px;
-    background-color: #c33d00;
-    justify-content: center;
-    cursor: pointer;
-  }
-  .svydovets:hover {
-    box-shadow: 2px 2px 4px 0 rgba(255, 255, 255, 0.55);
-    background-color: #c33d00;
-  }
-  .petros:hover {
-    box-shadow: 2px 2px 4px 0 rgba(195, 61, 0, 0.55);
-    background-color: #ffffff;
-  }
-  .chyvyn:hover {
-    box-shadow: 2px 2px 4px 0 rgba(195, 61, 0, 0.55);
-    background-color: #ffffff;
-  }
-  .petros, .chyvyn {
-    background: #fff;
-  }
-  .svydovets-text, .petros-text, .chyvyn-text {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 87px;
-    letter-spacing: 0.04px;
-    color: #f9f9fa;
-  }
-  .petros-text, .chyvyn-text {
-    color: #1b202f;
-  }
-  .svydovets-icon {
-    position: relative;
-    right: 24px;
-  }
-  .video-1, .video-2, .video-3 {
-    max-width: 360px;
-    height: 183px;
-    object-fit: contain;
-    border-radius: 4px;
-    box-shadow: 0 4px 15px 0 rgba(196, 196, 196, 0.55);
-    background: url('/img/video-8/video-1.jpg') no-repeat center center;
-    margin-top: 40px;
-  }
-  .video-2 {
-    background: url('/img/video-8/video-2.jpg') no-repeat center center;
-  }
-  .video-3 {
-    background: url('/img/video-8/video-3.jpg') no-repeat center center;
-  }
-  .play-button {
-    line-height: 183px;
-    text-align: center;
-  }
-  .information-button {
-    margin: 0 auto;
-    margin-top: 216px;
-  }
-  .white-button, .carrot-button {
-    max-width: 260px;
-    height: 100px;
-    border-radius: 4px;
-    background-color: #f9f9fa;
-    cursor: pointer;
-  }
-  .white-button:hover {
-    box-shadow: 2px 2px 4px 0 rgba(195, 61, 0, 0.55);
-    background-color: #ffffff;
-  }
-  .carrot-button:hover {
-    box-shadow: 2px 2px 4px 0 rgba(255, 255, 255, 0.55);
-    background-color: #c33d00;
-  }
-  .carrot-button {
-    background-color: #c33d00;
-  }
-  .information-text, .white {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 100px;
-    text-align: center;
-    letter-spacing: 0.02px;
-    color: #1b202f;
-  }
-  .white {
-    color: #f9f9fa;
-  }
-  .information-button-2 {
-    padding-top: 40px;
-  }
-  .main_news {
-    margin-top: 128px;
-    border-radius: 1px;
-    background-color: rgb(255, 255, 255);
-    display: flex;
-    min-height: 176px;
-    background: #fff;
-    overflow: hidden;
-    max-width: 1140px;
-  }
-  .left_news {
-    padding-left: 112px;
-    padding-right: 40px;
-    display: flex;
-    justify-content: center;
-  }
-  .right_news {
-    flex: 1;
-  }
-  .build {
-    display: flex;
-  }
-  .build > div {
-    flex: 1;
-    margin-right: 40px;
-    max-width: 542px;
-  }
-  #news_border {
-    position: relative;
-    width: 100%;
-    max-width: 100%;
-    margin: 0;
-    padding: 8px 0 8px;
-    vertical-align: top;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 500;
-    border-radius: 2px;
-    background-color: #e0e0e0;
-    box-shadow: none;
-    appearance: none;
-    font-size: 15px;
-    line-height: 1.6;
-    transition: .2s all ease-in-out;
-    resize: none;
-    height: 48px;
-    padding-left: 16px;
-    border: none;
-    color: #1b202f;
-  }
-  #news_border:focus {
-    border: solid 1px rgba(79, 79, 79, 0.5);
-    background-color: #f2f2f2;
-  }
-  INPUT[type="email"] {
-    color: #1b202f;
-  }
-  #get_news {
-    display: inline-block;
-    float: none;
-    zoom: 1;
-    font-size: 18px;
-    *display: inline;
-    vertical-align: top;
-    padding: 8px 16px;
-    text-align: center;
-    text-decoration: none;
-    vertical-align: middle;
-    line-height: 24px;
-    border-radius: 2px;
-    border: 0;
-    cursor: pointer;
-    outline: 0;
-    height: 48px;
-    border-radius: 1px;
-    background-color: #c33d00;
-    box-shadow: 0 2px 4px 0 rgba(189, 189, 189, 0.5);
-    color: white;
-    -moz-transition: background .1s linear;
-    -o-transition: background .1s linear;
-    -webkit-transition: background .1s linear;
-    -ms-transition: background .1s linear;
-    transition: background .1s linear;
-    -webkit-appearance: none;
-    width: 220px;
-  }
-  #get_news:hover {
-    background-color: #da4d0d;
-  }
-  .news_title {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 20px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.3;
-    letter-spacing: 0.04px;
-    color: #1b202f;
-    padding-top: 32px;
-    margin-bottom: 0px;
-  }
-  .news_second_t {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
-    font-weight: 300;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.29;
-    letter-spacing: 0.01px;
-    color: #1b202f;
-    padding-top: 8px;
-    margin-bottom: 16px;
-  }
-  .succes_news {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 300;
-    font-size: 16px;
-    color: #c33d00;
-    padding-top: 4px;
-  }
-  .reviews {
-    padding-top: 168px;
-  }
-  .reviews-text {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 32px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.25;
-    letter-spacing: 0.03px;
-    color: #f9f9fa;
-  }
-  .review-block {
-    margin-top: 56px;
-    max-width: 1160px;
-    min-height: 804px;
-    background: url('/img/video.png') no-repeat center center;
-  }
-  .review-top {
-    padding-top: 72px;
-  }
-  .review-1, .review-2, .review-3, .review-4  {
-    max-width: 496px;
-    margin: 0 auto;
-    height: 310px;
-    object-fit: contain;
-    border-radius: 2px;
-    background: url('/img/review/video-1.png') no-repeat center center;
-  }
-  .review-2 {
-    background: url('/img/review/video-2.png') no-repeat center center;
-  }
-  .review-3 {
-    background: url('/img/review/video-3.png') no-repeat center center;
-    margin-top: 40px;
-  }
-  .review-4 {
-    background: url('/img/review/video-4.png') no-repeat center center;
-    margin-top: 40px;
-  }
-  .play-2 {
-    line-height: 310px;
-    text-align: center;
-  }
-  .top-end {
-    margin: 0 auto;
-    margin-top: 136px;
-  }
-  .white-end {
-    max-width: 360px;
-    height: 96px;
-    border-radius: 4px;
-    background-color: #f9f9fa;
-    display: flex;
-    justify-content: center;
-    cursor: pointer;
-  }
-  .white-end:hover {
-    box-shadow: 2px 2px 4px 0 rgba(195, 61, 0, 0.55);
-    background-color: #f9f9fa;
-  }
-  .end-btn{
-    font-family: 'Open Sans', sans-serif;
-    font-size: 22px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    letter-spacing: 0.04px;
-    color: #1b202f;
-    text-align: center;
-    padding-top: 48px;
-    padding-left: 24px;
-  }
-  .another-end {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 22px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    letter-spacing: 0.04px;
-    text-align: center;
-    color: #c33d00;
-  }
-  .pre-footer {
-    background: url('/img/pre-footer.png') no-repeat center center;
-    background-size: cover;
-    min-height: 286px;
-  }
-  .pre-footer-content {
-    max-width: 1160px;
-    margin: 0 auto;
-    padding-top: 64px;
-    display: flex;
-  }
-  .dreams {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 44px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.09px;
-    color: #f9f9fa;
-    padding-bottom: 24px;
-    margin-bottom: 0px;
-  }
-  .sub-dreams {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 24px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.02px;
-    color: #f9f9fa;
-    margin-bottom: 0px;
-  }
-  .sub-dreams-2 {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.05px;
-    color: #f9f9fa;
-    padding-top: 4px;
-    margin-bottom: 0px;
-  } 
-  .date-end {
-    display: flex;
-  }
-  .date-3, .another-date {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: italic;
-    line-height: normal;
-    letter-spacing: 0.02px;
-    color: #f9f9fa;
-    align-self: flex-end;
-    margin-bottom: 0px;
-  }
-  .another-date {
-     color: #c33d00;
-  }
-  .pre-footer-icon {
-    padding-right: 16px;
-  }
-  .dreams-left {
-    flex: 1;
-  }
-  .footer {
-    min-height: 341px;
-    background-color: #000000;
-  }
-  .footer-container {
-    max-width: 1160px;
-    margin: 0 auto;
-  }
-  .first-t {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 26px;
-    font-weight: 600;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.05px;
-    color: #f9f9fa;
-    padding-top: 48px;
-    margin-bottom: 0px;
-    display: flex;
-  }
-  .first-icon {
-    padding-right: 12px;
-  }
-  .second-t {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    color: #f9f9fa;
-    padding-top: 17px;
-    margin-bottom: 0px;
-    display: flex;
-  }
-  .second-icon {
-    padding-right: 12px;
-  }
-  .third-t, .t-1, .t-2{
-    max-width: 232px;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: normal;
-    color: #f9f9fa;
-    padding-top: 16px;
-    margin-bottom: 0px;
-    display: flex;
-  }
-  .third-icon {
-    padding-right: 12px;
-  }
-  .t-1, .t-2 {
-    padding-top: 4px;
-  }
-  .why-us, .contact, .here, .map-page{
-    padding-top: 56px;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.03px;
-    color: #f9f9fa;
-    margin-bottom: 0px;
-  }
-  .concept, .ask, .there, .copyright{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.03px;
-    color: #f9f9fa;
-    padding-top: 32px;
-    margin-bottom: 0px;
-  }
-  .review-f, .how-it-was {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    font-weight: 500;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.03px;
-    color: #f9f9fa;
-    padding-top: 32px;
-  }
-  .social {
-    padding-top: 28px;
-  }
-  .insta {
-    padding-right: 24px;
-  }
-  .facebook {
-    padding-right: 24px;
-  }
-  .copyright-last {
-    padding-top: 85px;
-  }
-  .copyright-1 {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.03px;
-    color: #ffffff;
-    margin-bottom: 0px;
-  }
-  .designedby {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 12px;
-    font-weight: normal;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: normal;
-    letter-spacing: 0.01px;
-    color: #ffffff;
-    padding-top: 16px;
-    text-align: center;
-    margin-bottom: 1rem;
-  }
-  .review-new {
-    max-width: 1140px;
-  }
-  #going-form {
-	width: 100%;
-	padding: 30px;
-	max-width: 600px;
-  }
+.menu {
+  position: fixed;
+  top: 50%;
+  right: 85px;
+  transform: translateY(-50%);
+  display: block;
+  z-index: 1;
+}
+.menu .dot {
+  display: block;
+  margin-bottom: 16px;
+  border-radius: 10px;
+  width: 14px;
+  height: 14px;
+  border: solid 1px rgb(255, 255, 255);
+  cursor: pointer;
+  color: #000;
+  text-decoration: none;
+  padding: 0;
+}
+.menu .dot,
+.menu .dot:hover,
+.menu .dot span {
+  transition: all 200ms ease;
+}
+.menu .dot:hover,
+.menu .dot.active {
+  background-color: rgb(255, 255, 255);
+}
+.menu .dot:hover span,
+.menu .dot.active span {
+  opacity: 1;
+  .menu .dot;
+}
+.menu .dot:hover span.forty,
+.menu .dot.active span.forty {
+  transform: translate(-45px, -3px);
+}
+.menu .dot:hover span.sixty,
+.menu .dot.active span.sixty {
+  transform: translate(-60px, -3px);
+}
+.menu .dot span {
+  font-size: 12px;
+  display: block;
+  transform: translate(0, -3px);
+  opacity: 0;
+}
+.right-icon {
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+}
+.team {
+  padding-top: 224px;
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.team-tittle {
+  font-family: "Open Sans", sans-serif;
+  font-size: 44px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: normal;
+  color: #f9f9fa;
+  margin-bottom: 0px;
+}
+.team-grid {
+  padding-top: 92px;
+  justify-content: center;
+}
+.info-1 {
+  padding-top: 32px;
+  max-width: 360px;
+}
+.team-1,
+.another-team {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.3;
+  letter-spacing: 0.04px;
+  color: #f9f9fa;
+  text-align: left;
+  margin-bottom: 0px;
+}
+.another-team {
+  font-weight: bold;
+}
+.team-2,
+.team-3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.3;
+  letter-spacing: 0.04px;
+  color: #f9f9fa;
+  text-align: left;
+  margin-bottom: 0px;
+}
+.ready {
+  text-align: center;
+  padding-top: 72px;
+  margin: 0 auto;
+}
+.ready-tittle,
+.another-ready {
+  text-shadow: 0 4px 4px rgba(150, 47, 47, 0.25);
+  font-family: "Montserrat", sans-serif;
+  font-size: 52px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: 0.1px;
+  color: #f9f9fa;
+  margin-bottom: 0px;
+}
+.another-ready {
+  color: #c33d00;
+  text-shadow: 0 4px 4px rgba(150, 47, 47, 0.25);
+}
+.ready-left-1 {
+  padding-top: 144px;
+  padding-bottom: 56px;
+}
+.ready-left-2 {
+  padding-top: 184px;
+  padding-bottom: 56px;
+}
+.ready-left {
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: "Open Sans", sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.03px;
+  color: #f9f9fa;
+  text-align: left;
+  margin-bottom: 0px;
+}
+.content-ready,
+.content-ready-3,
+.content-ready-5,
+.content-ready-7 {
+  max-width: 560px;
+  height: 329px;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px 0 rgba(196, 196, 196, 0.25);
+  background: url("https://sashaswan.github.io/adventures/img/block-6/syvulya.jpg")
+    no-repeat center center;
+}
+.content-ready-3 {
+  background: url("https://sashaswan.github.io/adventures/img/block-6/svydovets.jpg")
+    no-repeat center center;
+}
+.content-ready-5 {
+  background: url("https://sashaswan.github.io/adventures/img/block-7/yordaniya.jpg")
+    no-repeat center center;
+}
+.content-ready-7 {
+  background: url("https://sashaswan.github.io/adventures/img/block-7/rodnyanski-alpy.jpg")
+    no-repeat center center;
+}
+.content-ready-2,
+.content-ready-4,
+.content-ready-6,
+.content-ready-8 {
+  max-width: 560px;
+  height: 329px;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px 0 rgba(196, 196, 196, 0.25);
+  background: url("https://sashaswan.github.io/adventures/img/block-6/khomyak-synyak.jpg")
+    no-repeat center center;
+}
+.content-ready-4 {
+  background: url("https://sashaswan.github.io/adventures/img/block-6/dytyachyy-pokhid.jpg")
+    no-repeat center center;
+}
+.content-ready-6 {
+  background: url("https://sashaswan.github.io/adventures/img/block-7/likiyska-stezhka.jpg")
+    no-repeat center center;
+}
+.content-ready-8 {
+  background: url("https://sashaswan.github.io/adventures/img/block-7/maternhorn-montrose.jpg")
+    no-repeat center center;
+}
+.text-r-1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.6;
+  letter-spacing: 0.04px;
+  color: #f9f9fa;
+  padding-top: 99px;
+  margin-bottom: 0px;
+}
+.text-r-2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.6;
+  letter-spacing: 0.04px;
+  color: #f9f9fa;
+  margin-bottom: 0px;
+}
+.more-info {
+  max-width: 129px;
+  height: 32px;
+  border-radius: 20px;
+  background-color: #c33d00;
+  margin: 0 auto;
+  margin-top: 29px;
+  cursor: pointer;
+}
+.more-info:hover {
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background-color: #cd5b26;
+}
+.more-text {
+  line-height: 29px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.01px;
+  color: #f9f9fa;
+}
+.ready-2 {
+  margin-top: 40px;
+}
+.check-details {
+  float: right;
+  padding-right: 42px;
+  margin-top: 48px;
+  margin-left: auto;
+}
+.check-1 {
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: italic;
+  line-height: 2.22;
+  letter-spacing: 0.02px;
+  color: #f9f9fa;
+  border-bottom: 4px solid #c33d00;
+  padding-bottom: 4px;
+  cursor: pointer;
+}
+.check-1:hover {
+  border-bottom: none;
+}
+.bicycles {
+  margin: 0 auto;
+  padding-top: 184px;
+}
+.bicycles-title,
+.bicycles-another {
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: "Open Sans", sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.03px;
+  color: #ffffff;
+  text-align: left;
+  margin-bottom: 0px;
+  padding-bottom: 56px;
+}
+.bicycles-another {
+  color: #c33d00;
+}
+.svydovets,
+.petros,
+.chyvyn {
+  display: flex;
+  max-width: 360px;
+  height: 87px;
+  border-radius: 4px;
+  background-color: #c33d00;
+  justify-content: center;
+  cursor: pointer;
+}
+.svydovets:hover {
+  box-shadow: 2px 2px 4px 0 rgba(255, 255, 255, 0.55);
+  background-color: #c33d00;
+}
+.petros:hover {
+  box-shadow: 2px 2px 4px 0 rgba(195, 61, 0, 0.55);
+  background-color: #ffffff;
+}
+.chyvyn:hover {
+  box-shadow: 2px 2px 4px 0 rgba(195, 61, 0, 0.55);
+  background-color: #ffffff;
+}
+.petros,
+.chyvyn {
+  background: #fff;
+}
+.svydovets-text,
+.petros-text,
+.chyvyn-text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 87px;
+  letter-spacing: 0.04px;
+  color: #f9f9fa;
+}
+.petros-text,
+.chyvyn-text {
+  color: #1b202f;
+}
+.svydovets-icon {
+  position: relative;
+  right: 24px;
+}
+.video-1,
+.video-2,
+.video-3 {
+  max-width: 360px;
+  height: 183px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 4px 15px 0 rgba(196, 196, 196, 0.55);
+  background: url("https://sashaswan.github.io/adventures/img/video-8/video-1.jpg")
+    no-repeat center center;
+  margin-top: 40px;
+}
+.video-2 {
+  background: url("https://sashaswan.github.io/adventures/img/video-8/video-2.jpg")
+    no-repeat center center;
+}
+.video-3 {
+  background: url("https://sashaswan.github.io/adventures/img/video-8/video-3.jpg")
+    no-repeat center center;
+}
+.play-button {
+  line-height: 183px;
+  text-align: center;
+}
+.information-button {
+  margin: 0 auto;
+  margin-top: 216px;
+}
+.white-button,
+.carrot-button {
+  max-width: 260px;
+  height: 100px;
+  border-radius: 4px;
+  background-color: #f9f9fa;
+  cursor: pointer;
+}
+.white-button:hover {
+  box-shadow: 2px 2px 4px 0 rgba(195, 61, 0, 0.55);
+  background-color: #ffffff;
+}
+.carrot-button:hover {
+  box-shadow: 2px 2px 4px 0 rgba(255, 255, 255, 0.55);
+  background-color: #c33d00;
+}
+.carrot-button {
+  background-color: #c33d00;
+}
+.information-text,
+.white {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 100px;
+  text-align: center;
+  letter-spacing: 0.02px;
+  color: #1b202f;
+}
+.white {
+  color: #f9f9fa;
+}
+.information-button-2 {
+  padding-top: 40px;
+}
+.main_news {
+  margin-top: 128px;
+  border-radius: 1px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  min-height: 176px;
+  background: #fff;
+  overflow: hidden;
+  max-width: 1140px;
+}
+.left_news {
+  padding-left: 112px;
+  padding-right: 40px;
+  display: flex;
+  justify-content: center;
+}
+.right_news {
+  flex: 1;
+}
+.build {
+  display: flex;
+}
+.build > div {
+  flex: 1;
+  margin-right: 40px;
+  max-width: 542px;
+}
+#news_border {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 8px 0 8px;
+  vertical-align: top;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  border-radius: 2px;
+  background-color: #e0e0e0;
+  box-shadow: none;
+  appearance: none;
+  font-size: 15px;
+  line-height: 1.6;
+  transition: 0.2s all ease-in-out;
+  resize: none;
+  height: 48px;
+  padding-left: 16px;
+  border: none;
+  color: #1b202f;
+}
+#news_border:focus {
+  border: solid 1px rgba(79, 79, 79, 0.5);
+  background-color: #f2f2f2;
+}
+INPUT[type="email"] {
+  color: #1b202f;
+}
+#get_news {
+  display: inline-block;
+  float: none;
+  zoom: 1;
+  font-size: 18px;
+  *display: inline;
+  vertical-align: top;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  line-height: 24px;
+  border-radius: 2px;
+  border: 0;
+  cursor: pointer;
+  outline: 0;
+  height: 48px;
+  border-radius: 1px;
+  background-color: #c33d00;
+  box-shadow: 0 2px 4px 0 rgba(189, 189, 189, 0.5);
+  color: white;
+  -moz-transition: background 0.1s linear;
+  -o-transition: background 0.1s linear;
+  -webkit-transition: background 0.1s linear;
+  -ms-transition: background 0.1s linear;
+  transition: background 0.1s linear;
+  -webkit-appearance: none;
+  width: 220px;
+}
+#get_news:hover {
+  background-color: #da4d0d;
+}
+.news_title {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.3;
+  letter-spacing: 0.04px;
+  color: #1b202f;
+  padding-top: 32px;
+  margin-bottom: 0px;
+}
+.news_second_t {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: 0.01px;
+  color: #1b202f;
+  padding-top: 8px;
+  margin-bottom: 16px;
+}
+.succes_news {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  color: #c33d00;
+  padding-top: 4px;
+}
+.reviews {
+  padding-top: 168px;
+}
+.reviews-text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: 0.03px;
+  color: #f9f9fa;
+}
+.review-block {
+  margin-top: 56px;
+  max-width: 1160px;
+  min-height: 804px;
+  background: url("https://sashaswan.github.io/adventures/img/video.png")
+    no-repeat center center;
+}
+.review-top {
+  padding-top: 72px;
+}
+.review-1,
+.review-2,
+.review-3,
+.review-4 {
+  max-width: 496px;
+  margin: 0 auto;
+  height: 310px;
+  object-fit: contain;
+  border-radius: 2px;
+  background: url("https://sashaswan.github.io/adventures/img/review/video-1.png")
+    no-repeat center center;
+}
+.review-2 {
+  background: url("https://sashaswan.github.io/adventures/img/review/video-2.png")
+    no-repeat center center;
+}
+.review-3 {
+  background: url("https://sashaswan.github.io/adventures/img/review/video-3.png")
+    no-repeat center center;
+  margin-top: 40px;
+}
+.review-4 {
+  background: url("https://sashaswan.github.io/adventures/img/review/video-4.png")
+    no-repeat center center;
+  margin-top: 40px;
+}
+.play-2 {
+  line-height: 310px;
+  text-align: center;
+}
+.top-end {
+  margin: 0 auto;
+  margin-top: 136px;
+}
+.white-end {
+  max-width: 360px;
+  height: 96px;
+  border-radius: 4px;
+  background-color: #f9f9fa;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.white-end:hover {
+  box-shadow: 2px 2px 4px 0 rgba(195, 61, 0, 0.55);
+  background-color: #f9f9fa;
+}
+.end-btn {
+  font-family: "Open Sans", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.04px;
+  color: #1b202f;
+  text-align: center;
+  padding-top: 48px;
+  padding-left: 24px;
+}
+.another-end {
+  font-family: "Open Sans", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.04px;
+  text-align: center;
+  color: #c33d00;
+}
+.pre-footer {
+  background: url("https://sashaswan.github.io/adventures/img/pre-footer.png")
+    no-repeat center center;
+  background-size: cover;
+  min-height: 286px;
+}
+.pre-footer-content {
+  max-width: 1160px;
+  margin: 0 auto;
+  padding-top: 64px;
+  display: flex;
+}
+.dreams {
+  font-family: "Open Sans", sans-serif;
+  font-size: 44px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.09px;
+  color: #f9f9fa;
+  padding-bottom: 24px;
+  margin-bottom: 0px;
+}
+.sub-dreams {
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.02px;
+  color: #f9f9fa;
+  margin-bottom: 0px;
+}
+.sub-dreams-2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.05px;
+  color: #f9f9fa;
+  padding-top: 4px;
+  margin-bottom: 0px;
+}
+.date-end {
+  display: flex;
+}
+.date-3,
+.another-date {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: italic;
+  line-height: normal;
+  letter-spacing: 0.02px;
+  color: #f9f9fa;
+  align-self: flex-end;
+  margin-bottom: 0px;
+}
+.another-date {
+  color: #c33d00;
+}
+.pre-footer-icon {
+  padding-right: 16px;
+}
+.dreams-left {
+  flex: 1;
+}
+.footer {
+  min-height: 341px;
+  background-color: #000000;
+}
+.footer-container {
+  max-width: 1160px;
+  margin: 0 auto;
+}
+.first-t {
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.05px;
+  color: #f9f9fa;
+  padding-top: 48px;
+  margin-bottom: 0px;
+  display: flex;
+}
+.first-icon {
+  padding-right: 12px;
+}
+.second-t {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #f9f9fa;
+  padding-top: 17px;
+  margin-bottom: 0px;
+  display: flex;
+}
+.second-icon {
+  padding-right: 12px;
+}
+.third-t,
+.t-1,
+.t-2 {
+  max-width: 232px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #f9f9fa;
+  padding-top: 16px;
+  margin-bottom: 0px;
+  display: flex;
+}
+.third-icon {
+  padding-right: 12px;
+}
+.t-1,
+.t-2 {
+  padding-top: 4px;
+}
+.why-us,
+.contact,
+.here,
+.map-page {
+  padding-top: 56px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.03px;
+  color: #f9f9fa;
+  margin-bottom: 0px;
+}
+.concept,
+.ask,
+.there,
+.copyright {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.03px;
+  color: #f9f9fa;
+  padding-top: 32px;
+  margin-bottom: 0px;
+}
+.review-f,
+.how-it-was {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.03px;
+  color: #f9f9fa;
+  padding-top: 32px;
+}
+.social {
+  padding-top: 28px;
+}
+.insta {
+  padding-right: 24px;
+}
+.facebook {
+  padding-right: 24px;
+}
+.copyright-last {
+  padding-top: 85px;
+}
+.copyright-1 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.03px;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+.designedby {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.01px;
+  color: #ffffff;
+  padding-top: 16px;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.review-new {
+  max-width: 1140px;
+}
+#going-form {
+  width: 100%;
+  padding: 30px;
+  max-width: 600px;
+}
 #mc_embed_signup .button {
-    background-color: #c33d00 !important;
+  background-color: #c33d00 !important;
 }

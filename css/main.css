@@ -2,7 +2,7 @@ p, .h1, h1 {
 	margin-bottom: 0px;
 }
 .first-block {
-    background: url('/chyvchynski-hory/img/first.jpg') no-repeat center center;
+    background: url('https://sashaswan.github.io/adventures/chyvchynski-hory/img/first.jpg') no-repeat center center;
     background-size: auto;
     height: 1080px;
     -webkit-background-size: cover;
@@ -63,7 +63,7 @@ p, .h1, h1 {
 }
 .i-main {
     background-attachment: scroll;
-    background-image: url('/chyvchynski-hory/img/texture.png');
+    background-image: url('https://sashaswan.github.io/adventures/chyvchynski-hory/img/texture.png');
     min-height: 100vh;
     background-attachment: fixed;
     padding-bottom: 208px;
@@ -152,7 +152,7 @@ p, .h1, h1 {
 	height: 500px;
 	border-radius: 10px;
 	line-height: 500px;
-	background: url('/chyvchynski-hory/img/chyvchyny-video.jpg') no-repeat center center;
+	background: url('https://sashaswan.github.io/adventures/chyvchynski-hory/img/chyvchyny-video.jpg') no-repeat center center;
 	margin-top: 80px;
 }
 .i-play {
@@ -445,7 +445,7 @@ p, .h1, h1 {
 	height: 500px;
 	border-radius: 10px;
 	line-height: 500px;
-	background: url('/chyvchynski-hory/img/video-chyvchyny-2.jpg') no-repeat center center;
+	background: url('https://sashaswan.github.io/adventures/chyvchynski-hory/img/video-chyvchyny-2.jpg') no-repeat center center;
 	margin-top: 80px;
 	text-align: center;
 }
@@ -502,7 +502,7 @@ p, .h1, h1 {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/mandry-tut/img/syvulya.jpg') no-repeat center center;
+  background: url('https://sashaswan.github.io/adventures/mandry-tut/img/syvulya.jpg') no-repeat center center;
 }
 .i-loc-top {
 	margin: 0 auto;
@@ -561,10 +561,10 @@ p, .h1, h1 {
 	border-radius: 6px;
 }
 .i-popup-13 {
-	background: url('/chyvchynski-hory/img/video-13.jpg') no-repeat center center;
+	background: url('https://sashaswan.github.io/adventures/chyvchynski-hory/img/video-13.jpg') no-repeat center center;
 }
 .i-popup-14 {
-	background: url('/chyvchynski-hory/img/video-14.jpg') no-repeat center center;
+	background: url('https://sashaswan.github.io/adventures/chyvchynski-hory/img/video-14.jpg') no-repeat center center;
 }
 .play-button-i {
 	line-height: 295px;

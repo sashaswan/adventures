@@ -7,7 +7,8 @@ p {
   margin-bottom: 0px;
 }
 .first-block {
-  background: url(".img/background1.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/background1.jpg")
+    no-repeat center center;
   height: 1080px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -102,8 +103,8 @@ p {
   margin-bottom: 0px;
 }
 .main-block {
-  background: url(./img/compressed/texture_main.webp);
-  background-image: url(./img/texture_main.png);
+  background: url(https://sashaswan.github.io/adventures/img/compressed/texture_main.webp);
+  background-image: url(https://sashaswan.github.io/adventures/img/texture_main.png);
   min-height: 100vh;
   background-attachment: fixed;
   padding-bottom: 104px;
@@ -124,7 +125,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url("./img/dolomites_tour.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/dolomites_tour.jpg")
+    no-repeat center center;
 }
 .montblanc-content {
   margin-left: 16px;
@@ -133,7 +135,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url("./img/montblanc.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/montblanc.jpg")
+    no-repeat center center;
 }
 .tenerife-content {
   margin-left: 16px;
@@ -142,7 +145,8 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url("./img/tenerife.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/tenerife.jpg")
+    no-repeat center center;
 }
 .left-tittle {
   max-width: 760px;
@@ -446,16 +450,20 @@ p {
   object-fit: contain;
   border-radius: 8px;
   box-shadow: 0 4px 15px 0 rgba(196, 196, 196, 0.25);
-  background: url("./block-6/syvulya.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/block-6/syvulya.jpg")
+    no-repeat center center;
 }
 .content-ready-3 {
-  background: url("./img/block-6/svydovets.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/block-6/svydovets.jpg")
+    no-repeat center center;
 }
 .content-ready-5 {
-  background: url("./img/block-7/yordaniya.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/block-7/yordaniya.jpg")
+    no-repeat center center;
 }
 .content-ready-7 {
-  background: url("./img/block-7/rodnyanski-alpy.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/block-7/rodnyanski-alpy.jpg")
+    no-repeat center center;
 }
 .content-ready-2,
 .content-ready-4,
@@ -466,17 +474,20 @@ p {
   object-fit: contain;
   border-radius: 8px;
   box-shadow: 0 4px 15px 0 rgba(196, 196, 196, 0.25);
-  background: url("./img/block-6/khomyak-synyak.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/block-6/khomyak-synyak.jpg")
+    no-repeat center center;
 }
 .content-ready-4 {
-  background: url("./img/block-6/dytyachyy-pokhid.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/block-6/dytyachyy-pokhid.jpg")
+    no-repeat center center;
 }
 .content-ready-6 {
-  background: url("./img/block-7/likiyska-stezhka.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/block-7/likiyska-stezhka.jpg")
+    no-repeat center center;
 }
 .content-ready-8 {
-  background: url("./img/block-7/maternhorn-montrose.jpg") no-repeat center
-    center;
+  background: url("https://sashaswan.github.io/adventures/img/block-7/maternhorn-montrose.jpg")
+    no-repeat center center;
 }
 .text-r-1 {
   font-family: "Montserrat", sans-serif;
@@ -627,14 +638,17 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0 4px 15px 0 rgba(196, 196, 196, 0.55);
-  background: url("./img/video-8/video-1.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/video-8/video-1.jpg")
+    no-repeat center center;
   margin-top: 40px;
 }
 .video-2 {
-  background: url("./img/video-8/video-2.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/video-8/video-2.jpg")
+    no-repeat center center;
 }
 .video-3 {
-  background: url("./img/video-8/video-3.jpg") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/video-8/video-3.jpg")
+    no-repeat center center;
 }
 .play-button {
   line-height: 183px;
@@ -817,7 +831,8 @@ INPUT[type="email"] {
   margin-top: 56px;
   max-width: 1160px;
   min-height: 804px;
-  background: url("./img/video.png") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/video.png")
+    no-repeat center center;
 }
 .review-top {
   padding-top: 72px;
@@ -831,17 +846,21 @@ INPUT[type="email"] {
   height: 310px;
   object-fit: contain;
   border-radius: 2px;
-  background: url("./img/review/video-1.png") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/review/video-1.png")
+    no-repeat center center;
 }
 .review-2 {
-  background: url("./img/review/video-2.png") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/review/video-2.png")
+    no-repeat center center;
 }
 .review-3 {
-  background: url("./img/review/video-3.png") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/review/video-3.png")
+    no-repeat center center;
   margin-top: 40px;
 }
 .review-4 {
-  background: url("./img/review/video-4.png") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/review/video-4.png")
+    no-repeat center center;
   margin-top: 40px;
 }
 .play-2 {
@@ -888,7 +907,8 @@ INPUT[type="email"] {
   color: #c33d00;
 }
 .pre-footer {
-  background: url("./img/pre-footer.png") no-repeat center center;
+  background: url("https://sashaswan.github.io/adventures/img/pre-footer.png")
+    no-repeat center center;
   background-size: cover;
   min-height: 286px;
 }

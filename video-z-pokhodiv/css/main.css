@@ -1,72 +1,74 @@
-p, .h1, h1 {
-	margin-bottom: 0px;
+p,
+.h1,
+h1 {
+  margin-bottom: 0px;
 }
 .first-block {
-    background: url('/video-z-pokhodiv/img/first.jpg') no-repeat center center;
-    background-size: auto;
-    height: 800px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/first.jpg') no-repeat center center;
+  background-size: auto;
+  height: 800px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .Video-centered {
-    max-width: 1020px;
-    padding-top: 340px;
-    margin: 0 auto;
+  max-width: 1020px;
+  padding-top: 340px;
+  margin: 0 auto;
 }
 .Video-h1 {
-	font-family: 'Open Sans', sans-serif;
-	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-	font-size: 52px;
-	font-weight: 400;
-	font-stretch: normal;
-	font-style: normal;
-	letter-spacing: 0.1px;
-	color: #f9f9fa;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 52px;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.1px;
+  color: #f9f9fa;
+  text-align: center;
 }
 .Video-color {
-	font-family: 'Open Sans', sans-serif;
-	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-	font-size: 52px;
-	font-weight: 800;
-	font-stretch: normal;
-	font-style: normal;
-	letter-spacing: 0.1px;
-	color: #c33d00;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 52px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.1px;
+  color: #c33d00;
+  text-align: center;
 }
 .Video-sub {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 26px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.23;
-	letter-spacing: 0.05px;
-	color: #f9f9fa;
-	padding-top: 40px;
-	text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: 0.05px;
+  color: #f9f9fa;
+  padding-top: 40px;
+  text-align: center;
 }
 .Video-next {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 15px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: 0.02px;
-	color: #ffffff;
-	padding-top: 48px;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.02px;
+  color: #ffffff;
+  padding-top: 48px;
+  text-align: center;
 }
 .Video-main {
-    background-attachment: scroll;
-    background-color: #f2f2f2;
-    min-height: 100vh;
-    background-attachment: fixed;
-    padding-bottom: 96px;
+  background-attachment: scroll;
+  background-color: #f2f2f2;
+  min-height: 100vh;
+  background-attachment: fixed;
+  padding-bottom: 96px;
 }
 @keyframes jump {
   0% {
@@ -80,363 +82,364 @@ p, .h1, h1 {
   }
 }
 .Video-down {
-	text-align: center;
-	padding-top: 80px;
-	position: relative;
-	animation: jump 5s infinite;
+  text-align: center;
+  padding-top: 80px;
+  position: relative;
+  animation: jump 5s infinite;
 }
 .Video-first {
-	max-width: 970px;
-	height: auto;
-	margin: 0 auto;
+  max-width: 970px;
+  height: auto;
+  margin: 0 auto;
 }
 .Video-safety {
-	max-width: 970px;
-	margin: 0 auto;
+  max-width: 970px;
+  margin: 0 auto;
 }
 .Video-title {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 29px;
-	font-weight: bold;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.69;
-	letter-spacing: 0.2px;
-	color: #1b202f;
-	margin-bottom: 0px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 29px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.69;
+  letter-spacing: 0.2px;
+  color: #1b202f;
+  margin-bottom: 0px;
 }
 .Video-title span {
-	color: #c33d00;
+  color: #c33d00;
 }
 .Video-bottom-title {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 22px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: 0.02px;
-	color: #000000;
-	padding-top: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.02px;
+  color: #000000;
+  padding-top: 16px;
 }
 .Video-1 {
-	max-width: 570px;
-	margin-right: 16px;
-	height: 470px;
-	background: url(/video-z-pokhodiv/img/1.png) no-repeat center;
+  max-width: 570px;
+  margin-right: 16px;
+  height: 470px;
+  background: url(/video-z-pokhodiv/img/1.png) no-repeat center;
 }
 .Video-2 {
-	max-width: 570px;
-	margin-left: 16px;
-	height: 470px;
-	background: url(/video-z-pokhodiv/img/2.png) no-repeat center;
+  max-width: 570px;
+  margin-left: 16px;
+  height: 470px;
+  background: url(/video-z-pokhodiv/img/2.png) no-repeat center;
 }
 .Video-3 {
-	max-width: 570px;
-	margin-right: 16px;
-	height: 470px;
-	background: url(/video-z-pokhodiv/img/3.png) no-repeat center;
+  max-width: 570px;
+  margin-right: 16px;
+  height: 470px;
+  background: url(/video-z-pokhodiv/img/3.png) no-repeat center;
 }
 .Video-4 {
-	max-width: 570px;
-	margin-left: 16px;
-	height: 470px;
-	background: url(/video-z-pokhodiv/img/4.png) no-repeat center;
+  max-width: 570px;
+  margin-left: 16px;
+  height: 470px;
+  background: url(/video-z-pokhodiv/img/4.png) no-repeat center;
 }
 .Video-1-text {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 36px;
-	font-weight: 600;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #f9f9fa;
-	margin-bottom: 0px;
-	padding-top: 194px;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #f9f9fa;
+  margin-bottom: 0px;
+  padding-top: 194px;
+  text-align: center;
 }
-.Video-1-button, .v-view {
-	font-family: 'Open Sans', sans-serif;
-	padding-top: 8px;
-	font-size: 18px;
-	font-weight: 600;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #f9f9fa;
-	text-align: center;
-	cursor: pointer;
+.Video-1-button,
+.v-view {
+  font-family: "Open Sans", sans-serif;
+  padding-top: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #f9f9fa;
+  text-align: center;
+  cursor: pointer;
 }
 .v-view:hover {
-	border-bottom: 2px solid #ffffff;
-	max-width: 116px;
-	padding-bottom: 6px;
-	margin: 0 auto;
+  border-bottom: 2px solid #ffffff;
+  max-width: 116px;
+  padding-bottom: 6px;
+  margin: 0 auto;
 }
 .Video-1-button:hover {
-	border-bottom: 2px solid #ffffff;
-	max-width: 150px;
-	padding-bottom: 6px;
-	margin: 0 auto;
+  border-bottom: 2px solid #ffffff;
+  max-width: 150px;
+  padding-bottom: 6px;
+  margin: 0 auto;
 }
 .Video-1-button span {
-	color: #c33d00;
-	text-align: center;
+  color: #c33d00;
+  text-align: center;
 }
 .Video-1-container {
-	padding-top: 144px;
+  padding-top: 144px;
 }
 .Video-2-container {
-	padding-top: 30px;
+  padding-top: 30px;
 }
 .Video-Gallery {
-	padding-top: 88px;
+  padding-top: 88px;
 }
 .Video-photos-title {
-	text-shadow: 1px 2px 2px #c33d0033;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 40px;
-	font-weight: bold;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #000000;
-	margin-bottom: 0px;
+  text-shadow: 1px 2px 2px #c33d0033;
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-bottom: 0px;
 }
 .Video-photos-sub {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
-	font-weight: 500;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #a1a7b8;
-	margin-bottom: 0px;
-	padding-top: 8px;
-	max-width: 570px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #a1a7b8;
+  margin-bottom: 0px;
+  padding-top: 8px;
+  max-width: 570px;
 }
 .Video-big {
-	margin-top: 48px;
-	text-align: center;
-	background: url('/video-z-pokhodiv/img/big-1.png') no-repeat center;
-	height: 586px;
+  margin-top: 48px;
+  text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/big-1.png') no-repeat center;
+  height: 586px;
 }
 .Video-big-2 {
-	margin-top: 48px;
-	text-align: center;
-	background: url('/video-z-pokhodiv/img/2-big.png') no-repeat center;
-	height: 586px;
+  margin-top: 48px;
+  text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/2-big.png') no-repeat center;
+  height: 586px;
 }
 .Video-big-3 {
-	margin-top: 48px;
-	text-align: center;
-	background: url('/video-z-pokhodiv/img/3-big.png') no-repeat center;
-	height: 586px;
-	line-height: 586px;
-	text-align: center;
+  margin-top: 48px;
+  text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/3-big.png') no-repeat center;
+  height: 586px;
+  line-height: 586px;
+  text-align: center;
 }
 .Video-big-4 {
-	margin-top: 48px;
-	text-align: center;
-	background: url('/video-z-pokhodiv/img/4-big.png') no-repeat center;
-	height: 586px;
+  margin-top: 48px;
+  text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/4-big.png') no-repeat center;
+  height: 586px;
 }
 .Video-big-5 {
-	margin-top: 30px;
-	text-align: center;
-	background: url('/video-z-pokhodiv/img/5-big.png') no-repeat center;
-	height: 586px;
+  margin-top: 30px;
+  text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/5-big.png') no-repeat center;
+  height: 586px;
 }
 .Video-big-6 {
-	margin-top: 56px;
-	text-align: center;
-	background: url('/video-z-pokhodiv/img/6-big.png') no-repeat center;
-	height: 586px;
+  margin-top: 56px;
+  text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/6-big.png') no-repeat center;
+  height: 586px;
 }
 .Video-big-3 p {
-	text-shadow: 1px 2px 4px #00000040;
-	font-family: Montserrat;
-	font-size: 40px;
-	font-weight: 800;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 586px;
-	letter-spacing: normal;
-	color: #f1f2fc;
-	font-family: 'Montserrat', sans-serif;
-	text-align: center;
+  text-shadow: 1px 2px 4px #00000040;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 586px;
+  letter-spacing: normal;
+  color: #f1f2fc;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
 }
 .Video-mini-back {
-	background: url('/video-z-pokhodiv/img/1-mini.png') no-repeat center;
-	height: 410px;
-	margin: 0 auto;
-	margin-right: 16px;
-	line-height: 410px;
-	text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/1-mini.png') no-repeat center;
+  height: 410px;
+  margin: 0 auto;
+  margin-right: 16px;
+  line-height: 410px;
+  text-align: center;
 }
 .Video-mini-back-2 {
-	background: url('/video-z-pokhodiv/img/2-mini.png') no-repeat center;
-	height: 410px;
-	margin: 0 auto;
-	margin-left: 16px;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/2-mini.png') no-repeat center;
+  height: 410px;
+  margin: 0 auto;
+  margin-left: 16px;
 }
 .Video-mini-back-3 {
-	background: url('/video-z-pokhodiv/img/3-mini.png') no-repeat center;
-	height: 410px;
-	margin: 0 auto;
-	margin-right: 16px;
-	line-height: 410px;
-	text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/3-mini.png') no-repeat center;
+  height: 410px;
+  margin: 0 auto;
+  margin-right: 16px;
+  line-height: 410px;
+  text-align: center;
 }
 .Video-mini-back-4 {
-	background: url('/video-z-pokhodiv/img/4-mini.png') no-repeat center;
-	height: 410px;
-	margin: 0 auto;
-	margin-left: 16px;
-	line-height: 410px;
-	text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/4-mini.png') no-repeat center;
+  height: 410px;
+  margin: 0 auto;
+  margin-left: 16px;
+  line-height: 410px;
+  text-align: center;
 }
 .Video-mini-back-5 {
-	background: url('/video-z-pokhodiv/img/5-mini.png') no-repeat center;
-	height: 410px;
-	margin: 0 auto;
-	margin-right: 16px;
-	line-height: 410px;
-	text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/5-mini.png') no-repeat center;
+  height: 410px;
+  margin: 0 auto;
+  margin-right: 16px;
+  line-height: 410px;
+  text-align: center;
 }
 .Video-mini-back-6 {
-	background: url('/video-z-pokhodiv/img/6-mini.png') no-repeat center;
-	height: 410px;
-	margin: 0 auto;
-	margin-left: 16px;
-	line-height: 410px;
-	text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/6-mini.png') no-repeat center;
+  height: 410px;
+  margin: 0 auto;
+  margin-left: 16px;
+  line-height: 410px;
+  text-align: center;
 }
 .Video-mini-back-7 {
-	background: url('/video-z-pokhodiv/img/7-mini.png') no-repeat center;
-	height: 320px;
-	margin: 0 auto;
-	margin-right: 16px;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/7-mini.png') no-repeat center;
+  height: 320px;
+  margin: 0 auto;
+  margin-right: 16px;
 }
 .Video-mini-back-8 {
-	background: url('/video-z-pokhodiv/img/8-mini.png') no-repeat center;
-	height: 320px;
-	margin: 0 auto;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/8-mini.png') no-repeat center;
+  height: 320px;
+  margin: 0 auto;
 }
 .Video-mini-back-9 {
-	background: url('/video-z-pokhodiv/img/9-mini.png') no-repeat center;
-	height: 320px;
-	margin: 0 auto;
-	margin-left: 16px;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/9-mini.png') no-repeat center;
+  height: 320px;
+  margin: 0 auto;
+  margin-left: 16px;
 }
 .Video-mini-back-10 {
-	background: url('/video-z-pokhodiv/img/10-mini.png') no-repeat center;
-	height: 410px;
-	margin: 0 auto;
-	margin-right: 16px;
-	line-height: 410px;
-	text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/10-mini.png') no-repeat center;
+  height: 410px;
+  margin: 0 auto;
+  margin-right: 16px;
+  line-height: 410px;
+  text-align: center;
 }
 .Video-mini-back-11 {
-	background: url('/video-z-pokhodiv/img/11-mini.png') no-repeat center;
-	height: 410px;
-	margin: 0 auto;
-	margin-left: 16px;
-	line-height: 410px;
-	text-align: center;
+  background: url(‘https://sashaswan.github.io/adventures/video-z-pokhodiv/img/11-mini.png') no-repeat center;
+  height: 410px;
+  margin: 0 auto;
+  margin-left: 16px;
+  line-height: 410px;
+  text-align: center;
 }
 .Video-back-title-mini {
-	line-height: 320px;
-	text-shadow: 1px 2px 4px #00000040;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 40px;
-	font-weight: 800;
-	font-stretch: normal;
-	font-style: normal;
-	letter-spacing: normal;
-	color: #f1f2fc;
-	margin-bottom: 0px;
-	text-align: center;
+  line-height: 320px;
+  text-shadow: 1px 2px 4px #00000040;
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  color: #f1f2fc;
+  margin-bottom: 0px;
+  text-align: center;
 }
 .Video-back-title {
-	text-shadow: 1px 2px 4px #00000040;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 40px;
-	font-weight: 800;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 410px;
-	letter-spacing: normal;
-	color: #f1f2fc;
-	margin-bottom: 0px;
-	text-align: center;
+  text-shadow: 1px 2px 4px #00000040;
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 410px;
+  letter-spacing: normal;
+  color: #f1f2fc;
+  margin-bottom: 0px;
+  text-align: center;
 }
 .Video-small-top {
-	margin-top: 30px;
+  margin-top: 30px;
 }
 .Video-banner-1 {
-	padding-top: 72px;
-	padding-bottom: 18px;
+  padding-top: 72px;
+  padding-bottom: 18px;
 }
 .Video-banner-2 {
-	padding-top: 104px;
+  padding-top: 104px;
 }
 .Video-banner-1 p {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 24px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #000000;
-	text-align: center;
-	margin-bottom: 0px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 0px;
 }
 .Video-banner-2 p {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 24px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #000000;
-	margin-bottom: 0px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-bottom: 0px;
 }
 .Video-second-gallery {
-	padding-top: 144px;
+  padding-top: 144px;
 }
 .Video-banner-2 {
-	padding-top: 144px;
-	max-width: 770px;
-	margin: 0 auto;
-	margin-bottom: 72px;
+  padding-top: 144px;
+  max-width: 770px;
+  margin: 0 auto;
+  margin-bottom: 72px;
 }
 .Video-banner-text-1 {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.55;
-	letter-spacing: 0.04px;
-	color: #1b202f;
-	margin-bottom: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: 0.04px;
+  color: #1b202f;
+  margin-bottom: 0px;
 }
 .Video-banner-text-2 {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.55;
-	letter-spacing: 0.04px;
-	color: #1b202f;
-	padding-top: 40px;
-	margin-bottom: 72px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: 0.04px;
+  color: #1b202f;
+  padding-top: 40px;
+  margin-bottom: 72px;
 }

@@ -1,74 +1,76 @@
-p, .h1, h1 {
-	margin-bottom: 0px;
+p,
+.h1,
+h1 {
+  margin-bottom: 0px;
 }
 .first-block {
-    background: url('/istoriyi/skhidni-beskydy/img/first.jpg') no-repeat center center;
-    background-size: auto;
-    height: 750px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  background: url(‘https://sashaswan.github.io/adventures/istoriyi/skhidni-beskydy/img/first.jpg') no-repeat center center;
+  background-size: auto;
+  height: 750px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .article-centered {
-    max-width: 570px;
-    padding-top: 268px;
-    margin: 0 auto;
+  max-width: 570px;
+  padding-top: 268px;
+  margin: 0 auto;
 }
 .article-h1 {
-	text-shadow: 0 4px 4px #00000040;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 48px;
-	font-weight: 600;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: 0.48px;
-	color: #f9f9fa;
-	text-align: left;
+  text-shadow: 0 4px 4px #00000040;
+  font-family: "Montserrat", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.48px;
+  color: #f9f9fa;
+  text-align: left;
 }
 .article-color {
-	font-family: 'Open Sans', sans-serif;
-	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-	font-size: 52px;
-	font-weight: 800;
-	font-stretch: normal;
-	font-style: normal;
-	letter-spacing: 0.1px;
-	color: #c33d00;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 52px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.1px;
+  color: #c33d00;
+  text-align: center;
 }
 .article-sub {
-	text-shadow: 0 4px 4px #00000040;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 24px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.46;
-	letter-spacing: 0.24px;
-	color: #f9f9fa;
-	padding-top: 40px;
-	text-align: left;
+  text-shadow: 0 4px 4px #00000040;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.46;
+  letter-spacing: 0.24px;
+  color: #f9f9fa;
+  padding-top: 40px;
+  text-align: left;
 }
 .article-next {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 15px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: 0.02px;
-	color: #ffffff;
-	padding-top: 48px;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.02px;
+  color: #ffffff;
+  padding-top: 48px;
+  text-align: center;
 }
 .article-main {
-    background-attachment: scroll;
-    background-color: #282828;
-    min-height: 100vh;
-    background-attachment: fixed;
-    padding-bottom: 168px;
+  background-attachment: scroll;
+  background-color: #282828;
+  min-height: 100vh;
+  background-attachment: fixed;
+  padding-bottom: 168px;
 }
 @keyframes jump {
   0% {
@@ -82,93 +84,93 @@ p, .h1, h1 {
   }
 }
 .article-top-text {
-	margin-top: 119px;
-	margin-left: 130px;
-	margin-bottom: 89px;
+  margin-top: 119px;
+  margin-left: 130px;
+  margin-bottom: 89px;
 }
 .article-top-text-2 {
-	margin-left: 475px;
-	margin-top: 89px;
+  margin-left: 475px;
+  margin-top: 89px;
 }
 .article-1-text {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 18px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.61;
-	letter-spacing: 0.09px;
-	color: #f9f9fa;
-	max-width: 370px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.61;
+  letter-spacing: 0.09px;
+  color: #f9f9fa;
+  max-width: 370px;
 }
 .article-top {
-	margin-top: 30px;
+  margin-top: 30px;
 }
 .grid:after {
-	content: '';
-	display: block;
-	clear: both;
-  }
+  content: "";
+  display: block;
+  clear: both;
+}
 .grid {
-	margin: 0 auto;
+  margin: 0 auto;
 }
 .gallery {
-	margin: 0 auto;
+  margin: 0 auto;
 }
 .gallery-item--width2 {
-	margin-top: 30px;
-	margin-bottom: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .add-gutter {
-	margin-left: 20px;
+  margin-left: 20px;
 }
 .article-promo {
-	max-width: 970px;
-	margin: 0 auto;
-	margin-top: 120px;
-	margin-bottom: 144px;
+  max-width: 970px;
+  margin: 0 auto;
+  margin-top: 120px;
+  margin-bottom: 144px;
 }
 .article-text-promo {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 24px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.54;
-	letter-spacing: 0.17px;
-	color: #f9f9fa;
-	text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.54;
+  letter-spacing: 0.17px;
+  color: #f9f9fa;
+  text-align: center;
 }
 .article-button {
-	max-width: 170px;
-	margin: 0 auto;
-	height: 58px;
-	border-radius: 2px;
-	background-color: #c33d00;
+  max-width: 170px;
+  margin: 0 auto;
+  height: 58px;
+  border-radius: 2px;
+  background-color: #c33d00;
 }
 .article-button-text {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 20px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 58px;
-	letter-spacing: 0.1px;
-	color: #f9f9fa;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 58px;
+  letter-spacing: 0.1px;
+  color: #f9f9fa;
+  text-align: center;
 }
 .buttons-centered {
-	margin-top: 79px;
-	justify-content: center;
+  margin-top: 79px;
+  justify-content: center;
 }
 .small {
-	text-align: center;
-	margin: 0 auto;
-	margin-top: 120px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 120px;
 }
 .small-item {
-	margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 .article-box {
-	padding-top: 30px;
+  padding-top: 30px;
 }

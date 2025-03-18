@@ -1,63 +1,68 @@
 p {
-	margin-bottom: 0px;
+  margin-bottom: 0px;
 }
 .first-block {
-    background: url('/mandry-tam/img/first.png') no-repeat center center;
-    background-size: auto;
-    height: 800px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/first.png') no-repeat center center;
+  background-size: auto;
+  height: 800px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .d-centered {
-    max-width: 970px;
-    padding-top: 335px;
-    margin: 0 auto;
+  max-width: 970px;
+  padding-top: 335px;
+  margin: 0 auto;
 }
 .d-h1 {
-	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-	font-family: 'Open Sans', sans-serif;
-	font-size: 52px;
-	font-weight: 800;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.23;
-	text-align: center;
-	letter-spacing: 1.56px;
-	color: #ffffff;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: "Open Sans", sans-serif;
+  font-size: 52px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  text-align: center;
+  letter-spacing: 1.56px;
+  color: #ffffff;
 }
 .d-main {
-    background-attachment: scroll;
-    background-image: url(/mandry-tam/img/texture.png);
-    min-height: 100vh;
-    background-attachment: fixed;
-    padding-bottom: 208px;
+  background-attachment: scroll;
+  background-image: url(/mandry-tam/img/texture.png);
+  min-height: 100vh;
+  background-attachment: fixed;
+  padding-bottom: 208px;
 }
 .d-location {
-	margin: 0 auto;
-	text-align: center;
-	padding-top: 96px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 96px;
 }
 .d-title-2 {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 24px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.33;
-	letter-spacing: 0.05px;
-	color: #ffffff;
-	padding-top: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 0.05px;
+  color: #ffffff;
+  padding-top: 16px;
 }
 .jordanien-tour {
   max-width: 1845px;
   margin: 0 auto;
   padding-top: 64px;
 }
-.jordanien-content:hover, .turkey-content:hover, .rodna-content:hover, 
-.matterhorn-content:hover, .dolomites-content:hover, .mont-content:hover, .tenerife-content:hover {
-	box-shadow: 1px 2px 25px 0 rgba(249, 249, 250, 0.55);
+.jordanien-content:hover,
+.turkey-content:hover,
+.rodna-content:hover,
+.matterhorn-content:hover,
+.dolomites-content:hover,
+.mont-content:hover,
+.tenerife-content:hover {
+  box-shadow: 1px 2px 25px 0 rgba(249, 249, 250, 0.55);
 }
 .jordanien-content {
   margin-left: 16px;
@@ -66,7 +71,7 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/mandry-tam/img/jordanien.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/jordanien.jpg') no-repeat center center;
 }
 .turkey-tour {
   max-width: 1845px;
@@ -80,7 +85,7 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/mandry-tam/img/turkey.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/turkey.jpg') no-repeat center center;
 }
 .rodna-tour {
   max-width: 1845px;
@@ -94,7 +99,7 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/mandry-tam/img/rodna.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/rodna.jpg') no-repeat center center;
 }
 .matterhorn-tour {
   max-width: 1845px;
@@ -108,7 +113,7 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/mandry-tam/img/matterhorn.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/matterhorn.jpg') no-repeat center center;
 }
 .dolomites-tour {
   max-width: 1845px;
@@ -122,7 +127,7 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/mandry-tam/img/dolomites.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/dolomites.jpg') no-repeat center center;
 }
 .mont-tour {
   max-width: 1845px;
@@ -136,7 +141,7 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/mandry-tam/img/mont.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/mont.jpg') no-repeat center center;
 }
 .tenerife-tour {
   max-width: 1845px;
@@ -150,16 +155,17 @@ p {
   object-fit: contain;
   border-radius: 4px;
   box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
-  background: url('/mandry-tam/img/tenerife.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/tenerife.jpg') no-repeat center center;
 }
 .d-tittle-1 {
   float: left;
   padding-top: 40px;
   padding-left: 40px;
 }
-.d-content-1, .another-color {
+.d-content-1,
+.another-color {
   text-shadow: 0 4px 5px rgba(0, 0, 0, 0.25);
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 44px;
   font-weight: 600;
   font-stretch: normal;
@@ -176,76 +182,92 @@ p {
   padding-left: 40px;
 }
 .another-color {
-    color: #c33d00;
+  color: #c33d00;
 }
 .d-info-block-1 {
-    max-width: 360px;
-    margin: 0 auto;
-    height: 256px;
-    border-radius: 8px;
-    background-image: linear-gradient(to bottom, rgba(195, 61, 0, 0.85), rgba(195, 61, 0, 0.1));
-    padding-left: 24px;
+  max-width: 360px;
+  margin: 0 auto;
+  height: 256px;
+  border-radius: 8px;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(195, 61, 0, 0.85),
+    rgba(195, 61, 0, 0.1)
+  );
+  padding-left: 24px;
 }
 #d-video-1 {
-	max-width: 1200px;
-	margin: 0 auto;
-	padding-top: 80px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-top: 80px;
 }
-.d-popup-1, .d-popup-2, .d-popup-3, .d-popup-4, .d-popup-5, .d-popup-6,
-.d-popup-7, .d-popup-8, .d-popup-9, .d-popup-10, .d-popup-11, .d-popup-12, .d-popup-13, .d-popup-14  {
-	max-width: 570px;
-	height: 295px;
-	background: url('/mandry-tam/img/video-1.jpg') no-repeat center center;
-	margin: 0 auto;
-	border-radius: 6px;
+.d-popup-1,
+.d-popup-2,
+.d-popup-3,
+.d-popup-4,
+.d-popup-5,
+.d-popup-6,
+.d-popup-7,
+.d-popup-8,
+.d-popup-9,
+.d-popup-10,
+.d-popup-11,
+.d-popup-12,
+.d-popup-13,
+.d-popup-14 {
+  max-width: 570px;
+  height: 295px;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-1.jpg') no-repeat center center;
+  margin: 0 auto;
+  border-radius: 6px;
 }
 .d-popup-2 {
-	background: url('/mandry-tam/img/video-2.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-2.jpg') no-repeat center center;
 }
 .d-popup-3 {
-	background: url('/mandry-tam/img/video-3.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-3.jpg') no-repeat center center;
 }
 .d-popup-4 {
-	background: url('/mandry-tam/img/video-4.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-4.jpg') no-repeat center center;
 }
 .d-popup-5 {
-	background: url('/mandry-tam/img/video-5.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-5.jpg') no-repeat center center;
 }
 .d-popup-6 {
-	background: url('/mandry-tam/img/video-6.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-6.jpg') no-repeat center center;
 }
 .d-popup-7 {
-	background: url('/mandry-tam/img/video-7.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-7.jpg') no-repeat center center;
 }
 .d-popup-8 {
-	background: url('/mandry-tam/img/video-8.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-8.jpg') no-repeat center center;
 }
 .d-popup-9 {
-	background: url('/mandry-tam/img/video-9.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-9.jpg') no-repeat center center;
 }
 .d-popup-10 {
-	background: url('/mandry-tam/img/video-10.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-10.jpg') no-repeat center center;
 }
 .d-popup-11 {
-	background: url('/mandry-tam/img/video-11.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-11.jpg') no-repeat center center;
 }
 .d-popup-12 {
-	background: url('/mandry-tam/img/video-12.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-12.jpg') no-repeat center center;
 }
 .d-popup-13 {
-	background: url('/mandry-tam/img/video-13.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-13.jpg') no-repeat center center;
 }
 .d-popup-14 {
-	background: url('/mandry-tam/img/video-14.jpg') no-repeat center center;
+  background: url(‘https://sashaswan.github.io/adventures/mandry-tam/img/video-14.jpg') no-repeat center center;
 }
 .play-button-d {
-	line-height: 295px;
-	text-align: center;
+  line-height: 295px;
+  text-align: center;
 }
 .d-loc-top {
-	margin: 0 auto;
-	text-align: center;
-	padding-top: 168px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 168px;
 }
 @keyframes jump {
   0% {
@@ -259,8 +281,8 @@ p {
   }
 }
 .d-down {
-	text-align: center;
-	padding-top: 176px;
-	position: relative;
-	animation: jump 5s infinite;
+  text-align: center;
+  padding-top: 176px;
+  position: relative;
+  animation: jump 5s infinite;
 }

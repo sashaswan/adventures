@@ -1,72 +1,74 @@
-p, .h1, h1 {
-	margin-bottom: 0px;
+p,
+.h1,
+h1 {
+  margin-bottom: 0px;
 }
 .first-block {
-    background: url('/pravova-informatsiya/img/first.jpg') no-repeat center center;
-    background-size: auto;
-    height: 540px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  background: url(‘https://sashaswan.github.io/adventures/pravova-informatsiya/img/first.jpg') no-repeat center center;
+  background-size: auto;
+  height: 540px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .Y-centered {
-    max-width: 1020px;
-    padding-top: 238px;
-    margin: 0 auto;
+  max-width: 1020px;
+  padding-top: 238px;
+  margin: 0 auto;
 }
 .Y-h1 {
-	font-family: 'Open Sans', sans-serif;
-	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-	font-size: 52px;
-	font-weight: 400;
-	font-stretch: normal;
-	font-style: normal;
-	letter-spacing: 0.1px;
-	color: #f9f9fa;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 52px;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.1px;
+  color: #f9f9fa;
+  text-align: center;
 }
 .Y-color {
-	font-family: 'Open Sans', sans-serif;
-	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-	font-size: 52px;
-	font-weight: 800;
-	font-stretch: normal;
-	font-style: normal;
-	letter-spacing: 0.1px;
-	color: #c33d00;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 52px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.1px;
+  color: #c33d00;
+  text-align: center;
 }
 .Y-sub {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 26px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.23;
-	letter-spacing: 0.05px;
-	color: #f9f9fa;
-	padding-top: 40px;
-	text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: 0.05px;
+  color: #f9f9fa;
+  padding-top: 40px;
+  text-align: center;
 }
 .Y-next {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 15px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: 0.02px;
-	color: #ffffff;
-	padding-top: 48px;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.02px;
+  color: #ffffff;
+  padding-top: 48px;
+  text-align: center;
 }
 .Y-main {
-    background-attachment: scroll;
-    background-color: #f2f2f2;
-    min-height: 100vh;
-    background-attachment: fixed;
-    padding-bottom: 88px;
+  background-attachment: scroll;
+  background-color: #f2f2f2;
+  min-height: 100vh;
+  background-attachment: fixed;
+  padding-bottom: 88px;
 }
 @keyframes jump {
   0% {
@@ -80,94 +82,94 @@ p, .h1, h1 {
   }
 }
 .Y-down {
-	text-align: center;
-	padding-top: 80px;
-	position: relative;
-	animation: jump 5s infinite;
+  text-align: center;
+  padding-top: 80px;
+  position: relative;
+  animation: jump 5s infinite;
 }
 .Y-first {
-	max-width: 970px;
-	height: auto;
-	margin: 0 auto;
+  max-width: 970px;
+  height: auto;
+  margin: 0 auto;
 }
 .Y-container {
-	max-width: 970px;
-	margin: 0 auto;
+  max-width: 970px;
+  margin: 0 auto;
 }
 .privacy-policy {
-	padding-top: 56px;
+  padding-top: 56px;
 }
 .privacy-policy span {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 24px;
-	font-weight: 600;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: 0.17px;
-	color: #2370c5;
-	text-decoration: underline;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.17px;
+  color: #2370c5;
+  text-decoration: underline;
 }
 .privacy-title {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 40px;
-	font-weight: bold;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: 0.16px;
-	color: #000000;
-	margin-bottom: 0px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.16px;
+  color: #000000;
+  margin-bottom: 0px;
 }
 .privacy-sub {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 24px;
-	font-weight: 600;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: 0.17px;
-	color: #b3b3b3;
-	margin-bottom: 0px;
-	padding-top: 16px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.17px;
+  color: #b3b3b3;
+  margin-bottom: 0px;
+  padding-top: 16px;
 }
 .Y-1 {
-	padding-top: 64px;
+  padding-top: 64px;
 }
 .general {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
-	font-weight: bold;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.55;
-	letter-spacing: 0.04px;
-	color: #1b202f;
-	padding-bottom: 40px;
-	margin-bottom: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: 0.04px;
+  color: #1b202f;
+  padding-bottom: 40px;
+  margin-bottom: 0px;
 }
 .general-main {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.55;
-	letter-spacing: 0.04px;
-	color: #1b202f;
-	padding-bottom: 32px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: 0.04px;
+  color: #1b202f;
+  padding-bottom: 32px;
 }
 .zero-padding {
-	padding: 0px;
+  padding: 0px;
 }
 .Y-email {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
-	font-weight: bold;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.55;
-	letter-spacing: 0.04px;
-	color: #1b202f;
-	text-decoration:underline;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: 0.04px;
+  color: #1b202f;
+  text-decoration: underline;
 }

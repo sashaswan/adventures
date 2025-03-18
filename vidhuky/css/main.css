@@ -1,72 +1,74 @@
-p, .h1, h1 {
-	margin-bottom: 0px;
+p,
+.h1,
+h1 {
+  margin-bottom: 0px;
 }
 .first-block {
-    background: url('/vidhuky/img/first.jpg') no-repeat center center;
-    background-size: auto;
-    height: 540px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  background: url(‘https://sashaswan.github.io/adventures/vidhuky/img/first.jpg') no-repeat center center;
+  background-size: auto;
+  height: 540px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .X-centered {
-    max-width: 1020px;
-    padding-top: 238px;
-    margin: 0 auto;
+  max-width: 1020px;
+  padding-top: 238px;
+  margin: 0 auto;
 }
 .X-h1 {
-	font-family: 'Open Sans', sans-serif;
-	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-	font-size: 52px;
-	font-weight: 400;
-	font-stretch: normal;
-	font-style: normal;
-	letter-spacing: 0.1px;
-	color: #f9f9fa;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 52px;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.1px;
+  color: #f9f9fa;
+  text-align: center;
 }
 .X-color {
-	font-family: 'Open Sans', sans-serif;
-	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
-	font-size: 52px;
-	font-weight: 800;
-	font-stretch: normal;
-	font-style: normal;
-	letter-spacing: 0.1px;
-	color: #c33d00;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 52px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.1px;
+  color: #c33d00;
+  text-align: center;
 }
 .X-sub {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 26px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.23;
-	letter-spacing: 0.05px;
-	color: #f9f9fa;
-	padding-top: 40px;
-	text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 26px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: 0.05px;
+  color: #f9f9fa;
+  padding-top: 40px;
+  text-align: center;
 }
 .X-next {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 15px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: 0.02px;
-	color: #ffffff;
-	padding-top: 48px;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.02px;
+  color: #ffffff;
+  padding-top: 48px;
+  text-align: center;
 }
 .X-main {
-    background-attachment: scroll;
-    background-color: #f2f2f2;
-    min-height: 100vh;
-    background-attachment: fixed;
-    padding-bottom: 88px;
+  background-attachment: scroll;
+  background-color: #f2f2f2;
+  min-height: 100vh;
+  background-attachment: fixed;
+  padding-bottom: 88px;
 }
 @keyframes jump {
   0% {
@@ -80,196 +82,204 @@ p, .h1, h1 {
   }
 }
 .X-down {
-	text-align: center;
-	padding-top: 80px;
-	position: relative;
-	animation: jump 5s infinite;
+  text-align: center;
+  padding-top: 80px;
+  position: relative;
+  animation: jump 5s infinite;
 }
 .X-first {
-	max-width: 970px;
-	height: auto;
-	margin: 0 auto;
+  max-width: 970px;
+  height: auto;
+  margin: 0 auto;
 }
 .X-review {
-	padding-top: 80px;
+  padding-top: 80px;
 }
 .X-review-2 {
-	padding-top: 96px;
+  padding-top: 96px;
 }
 .X-1 {
-	max-width: 570px;
-	margin-right: 16px;
-	height: 470px;
-	background: url(/vidhuky/img/1.png) no-repeat center;
-	box-shadow: 0px 4px 5px #AFB8C2;
-	border-radius: 8px;
+  max-width: 570px;
+  margin-right: 16px;
+  height: 470px;
+  background: url(/vidhuky/img/1.png) no-repeat center;
+  box-shadow: 0px 4px 5px #afb8c2;
+  border-radius: 8px;
 }
 .X-2 {
-	max-width: 570px;
-	margin-left: 16px;
-	height: 470px;
-	background: url(/vidhuky/img/2.png) no-repeat center;
-	box-shadow: 0px 4px 5px #AFB8C2;
-	border-radius: 8px;
+  max-width: 570px;
+  margin-left: 16px;
+  height: 470px;
+  background: url(/vidhuky/img/2.png) no-repeat center;
+  box-shadow: 0px 4px 5px #afb8c2;
+  border-radius: 8px;
 }
 .X-3 {
-	max-width: 570px;
-	margin-right: 16px;
-	height: 470px;
-	background: url(/vidhuky/img/3.png) no-repeat center;
-	box-shadow: 0px 4px 5px #AFB8C2;
-	border-radius: 8px;
+  max-width: 570px;
+  margin-right: 16px;
+  height: 470px;
+  background: url(/vidhuky/img/3.png) no-repeat center;
+  box-shadow: 0px 4px 5px #afb8c2;
+  border-radius: 8px;
 }
 .X-4 {
-	max-width: 570px;
-	margin-left: 16px;
-	height: 470px;
-	background: url(/vidhuky/img/4.png) no-repeat center;
-	box-shadow: 0px 4px 5px #AFB8C2;
-	border-radius: 8px;
+  max-width: 570px;
+  margin-left: 16px;
+  height: 470px;
+  background: url(/vidhuky/img/4.png) no-repeat center;
+  box-shadow: 0px 4px 5px #afb8c2;
+  border-radius: 8px;
 }
 .X-1-text {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 36px;
-	font-weight: 600;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #f9f9fa;
-	margin-bottom: 0px;
-	padding-top: 194px;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #f9f9fa;
+  margin-bottom: 0px;
+  padding-top: 194px;
+  text-align: center;
 }
-.X-1-button, .x-view {
-	font-family: 'Open Sans', sans-serif;
-	padding-top: 8px;
-	font-size: 18px;
-	font-weight: 600;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #f9f9fa;
-	text-align: center;
-	cursor: pointer;
+.X-1-button,
+.x-view {
+  font-family: "Open Sans", sans-serif;
+  padding-top: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #f9f9fa;
+  text-align: center;
+  cursor: pointer;
 }
 .x-view:hover {
-	border-bottom: 2px solid #ffffff;
-	max-width: 116px;
-	padding-bottom: 6px;
-	margin: 0 auto;
+  border-bottom: 2px solid #ffffff;
+  max-width: 116px;
+  padding-bottom: 6px;
+  margin: 0 auto;
 }
 .X-1-button:hover {
-	border-bottom: 2px solid #ffffff;
-	max-width: 150px;
-	padding-bottom: 6px;
-	margin: 0 auto;
+  border-bottom: 2px solid #ffffff;
+  max-width: 150px;
+  padding-bottom: 6px;
+  margin: 0 auto;
 }
 .X-1-button span {
-	color: #c33d00;
-	text-align: center;
+  color: #c33d00;
+  text-align: center;
 }
 .X-2-container {
-	margin-top: 30px;
+  margin-top: 30px;
 }
 .X-review-title {
-	text-shadow: 1px 2px 2px #c33d0033;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 40px;
-	font-weight: bold;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #000000;
-	margin-bottom: 0px;
+  text-shadow: 1px 2px 2px #c33d0033;
+  font-family: "Open Sans", sans-serif;
+  font-size: 40px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-bottom: 0px;
 }
 .X-review-sub {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 20px;
-	font-weight: 500;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #A1A7B8;
-	padding-top: 8px;
-	max-width: 570px;
-	margin-bottom: 64px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #a1a7b8;
+  padding-top: 8px;
+  max-width: 570px;
+  margin-bottom: 64px;
 }
-.X-video, .X-video-2, .X-video-3, .X-video-4, .X-video-5, .X-video-6, .X-video-7, .X-video-8 {
-	background: url('/vidhuky/img/video-1.png') no-repeat center;
-	max-width: 470px;
-	height: 310px;
-	margin: 0 auto;
-	text-align: center;
-	line-height: 310px;
-	cursor:pointer;
-	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
-	border-radius: 2px;
+.X-video,
+.X-video-2,
+.X-video-3,
+.X-video-4,
+.X-video-5,
+.X-video-6,
+.X-video-7,
+.X-video-8 {
+  background: url(‘https://sashaswan.github.io/adventures/vidhuky/img/video-1.png') no-repeat center;
+  max-width: 470px;
+  height: 310px;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 310px;
+  cursor: pointer;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  border-radius: 2px;
 }
 .X-video-2 {
-	background: url('/vidhuky/img/video-2.png') no-repeat center;
+  background: url(‘https://sashaswan.github.io/adventures/vidhuky/img/video-2.png') no-repeat center;
 }
 .X-video-3 {
-	background: url('/vidhuky/img/video-3.png') no-repeat center;
+  background: url(‘https://sashaswan.github.io/adventures/vidhuky/img/video-3.png') no-repeat center;
 }
 .X-video-4 {
-	background: url('/vidhuky/img/video-4.png') no-repeat center;
+  background: url(‘https://sashaswan.github.io/adventures/vidhuky/img/video-4.png') no-repeat center;
 }
 .X-video-5 {
-	background: url('/vidhuky/img/video-5.png') no-repeat center;
+  background: url(‘https://sashaswan.github.io/adventures/vidhuky/img/video-5.png') no-repeat center;
 }
 .X-video-6 {
-	background: url('/vidhuky/img/video-6.png') no-repeat center;
+  background: url(‘https://sashaswan.github.io/adventures/vidhuky/img/video-6.png') no-repeat center;
 }
 .X-video-7 {
-	background: url('/vidhuky/img/video-7.png') no-repeat center;
+  background: url(‘https://sashaswan.github.io/adventures/vidhuky/img/video-7.png') no-repeat center;
 }
 .X-video-8 {
-	background: url('/vidhuky/img/video-8.png') no-repeat center;
+  background: url(‘https://sashaswan.github.io/adventures/vidhuky/img/video-8.png') no-repeat center;
 }
 .X-banner {
-	padding-top: 56px;
-	padding-bottom: 56px;
+  padding-top: 56px;
+  padding-bottom: 56px;
 }
 .X-banner p {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 24px;
-	font-weight: normal;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: normal;
-	color: #000000;
-	text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  text-align: center;
 }
 .X-review-banner {
-	margin-top: 128px;
+  margin-top: 128px;
 }
 .x-title-1 {
-	text-shadow: 1px 2px 2px #c33d0033;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 24px;
-	font-weight: bold;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: normal;
-	letter-spacing: 0.12px;
-	color: #000000;
-	margin-bottom: 0px;
+  text-shadow: 1px 2px 2px #c33d0033;
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.12px;
+  color: #000000;
+  margin-bottom: 0px;
 }
 .x-title-2 {
-	font-family: 'Montserrat', sans-serif;
-	font-size: 18px;
-	font-weight: 500;
-	font-stretch: normal;
-	font-style: normal;
-	line-height: 1.33;
-	letter-spacing: 0.04px;
-	color: #A1A7B8;
-	padding-top: 8px;
-	margin-bottom: 56px;
-	max-width: 568px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 0.04px;
+  color: #a1a7b8;
+  padding-top: 8px;
+  margin-bottom: 56px;
+  max-width: 568px;
 }

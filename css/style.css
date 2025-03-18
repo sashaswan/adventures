@@ -7,7 +7,7 @@ p {
   margin-bottom: 0px;
 }
 .first-block {
-  background: url("./img/background1.jpg") no-repeat center center;
+  background: url(".img/background1.jpg") no-repeat center center;
   height: 1080px;
   -webkit-background-size: cover;
   -moz-background-size: cover;

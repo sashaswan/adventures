@@ -1,0 +1,42 @@
+@media only screen and (max-width : 1023px) {
+	.a-tittle {
+		font-size: 45px;
+	}
+	.a-padding {
+		padding-top: 30px;
+	}
+	#mandry-tyt {
+		height: auto;
+		padding-bottom: 80px;
+	}
+	#mandry-tam {
+		height: auto;
+		padding-bottom: 128px;
+	}
+	.a-title-1, .a-title-2 {
+		text-align: center;
+	}
+}
+@media only screen and (max-width : 768px) {
+	.a-tittle {
+			font-size: 38px;
+	}
+}
+@media only screen and (max-width : 639px) {
+	.a-top-1 {
+		padding-top: 30px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.a-tittle {
+		font-size: 36px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.a-info-main {
+		padding-left: 28px;
+	}
+	.a-tittle {
+		font-size: 28px;
+	}
+}

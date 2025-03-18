@@ -1,0 +1,111 @@
+@media only screen and (max-width : 1200px) { 
+	.Ko-question {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.Ko-title {
+		font-size: 24px;
+	}
+	.Ko-bottom-title {
+		font-size: 18px;
+	}
+}
+@media only screen and (max-width : 1170px) {
+}
+@media only screen and (max-width : 1024px) { 
+}
+@media only screen and (max-width : 980px) { 
+	.Ko-color, .Ko-h1 {
+		font-size: 34px;
+	}
+	.Ko-safety {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+}
+@media only screen and (max-width : 850px) {
+}	
+@media only screen and (max-width : 768px) { 
+	.Vaccordion {
+		font-size: 14px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.Ko-question {
+		padding-bottom: 60px;
+	}
+	.Ko-color, .Ko-h1 {
+		font-size: 40px;
+	}
+	.Ko-sub {
+		font-size: 20px;
+	}
+	.first-block {
+		height: 736px;
+	}
+	.Ko-centered {
+		padding-top: 256px;
+	}
+	.Ko-1, .Ko-2, .Ko-3, .Ko-4 {
+		margin: 0 auto;
+	}
+	.Ko-2, .Ko-4 {
+		margin-top: 30px;
+	}
+	.Ko-mini-back, .Ko-mini-back-2, .Ko-mini-back-3, .Ko-mini-back-4, .Ko-mini-back-4, .Ko-mini-back-5, .Ko-mini-back-6, .Ko-mini-back-7, .Ko-mini-back-8,
+	.Ko-mini-back-9, .Ko-mini-back-10, .Ko-mini-back-11, .Ko-mini-back-12, .Ko-mini-back-13, .Ko-mini-back-14 {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.Ko-mini-back-2, .Ko-mini-back-4, .Ko-mini-back-6, .Ko-mini-back-6, .Ko-mini-back-8, .Ko-mini-back-10, .Ko-mini-back-12, .Ko-mini-back-14 {
+		margin-top: 30px;
+	}
+	.Ko-main {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.Ko-banner-1 p, .Ko-banner-2 p, .Ko-photos-sub {
+		font-size: 18px;
+	}
+	.Ko-photos-title {
+		font-size: 32px;
+	}
+	.Ko-banner-2 p {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.Ko-text-1, .Ko-text-3 {
+		font-size: 24px;
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.Ko-text-4, .Ko-text-2, .Ko-text-5 {
+		font-size: 16px;
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.Ko-color, .Ko-h1 {
+	    font-size: 40px;
+	}
+	.Ko-sub {
+    	font-size: 18px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.Ko-color, .Ko-h1 {
+		font-size: 36px;
+	}
+	.Ko-sub {
+    	font-size: 14px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.Ko-color, .Ko-h1 {
+    	font-size: 32px;
+	}
+	.Ko-sub {
+    	font-size: 12px;
+	} 
+}

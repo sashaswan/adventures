@@ -1,0 +1,54 @@
+@media only screen and (max-width : 1170px) { 
+	.d-popup-1, .d-popup-2, .d-popup-3, .d-popup-4, .d-popup-5, 
+	.d-popup-6, .d-popup-7, .d-popup-8, .d-popup-9, .d-popup-10, 
+	.d-popup-11, .d-popup-12, .d-popup-13, .d-popup-14 {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+}
+@media only screen and (max-width : 840px) { 
+	.d-tittle-1, .d-tittle-2 {
+		max-width: 555px;
+		padding-left: 16px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.d-tittle-1, .d-tittle-2 {
+    	max-width: 290px;
+	}
+	.d-popup-2, .d-popup-4, .d-popup-6, .d-popup-8, .d-popup-10, .d-popup-12, .d-popup-14 {
+		margin-top: 80px;
+	}
+	.d-h1 {
+		font-size: 30px;
+	}
+	.d-content-1, .another-color {
+    	font-size: 28px;
+	}
+	#d-video-1 {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.d-content-1, .another-color {
+		font-size: 25px;
+	}
+	.d-tittle-1, .d-tittle-2 {
+		max-width: 250px;
+	}
+	.d-h1 {
+    	font-size: 27px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.d-h1 {
+		font-size: 22px;
+	}
+	.d-tittle-1, .d-tittle-2 {
+		padding-right: 8px;
+	}
+	.d-tittle-1, .d-tittle-2 {
+		max-width: 260px;
+	}
+}

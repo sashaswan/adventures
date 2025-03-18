@@ -1,0 +1,163 @@
+@media only screen and (max-width : 1899px) { 
+	.article-top-text {
+		margin-top: 119px;
+		margin-left: 16px;
+		margin-bottom: 89px;
+	}
+	.article-top-text-2 {
+		margin-left: 16px;
+		margin-top: 89px;
+	}
+	.add-gutter {
+		margin-left: 0px;
+		margin-top: 30px;
+	}
+	.gallery-item {
+		text-align: center;
+	}
+	.gallery-item--width2 {
+		margin-top: 89px;
+	}
+}
+@media only screen and (max-width : 1200px) { 
+	.article-question {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.article-title {
+		font-size: 24px;
+	}
+	.article-bottom-title {
+		font-size: 18px;
+	}
+}
+@media only screen and (max-width : 1170px) {
+}
+@media only screen and (max-width : 1024px) { 
+	.article-paddings {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.article-items {
+		margin-bottom: 16px;
+	}
+}
+@media only screen and (max-width : 980px) { 
+	.article-color, .article-h1 {
+		font-size: 34px;
+	}
+	.article-safety {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+	.article-title {
+		font-size: 24px;
+	}
+	.article-sub {
+		font-size: 16px;
+	}
+	.arcticle-more {
+		font-size: 18px;
+	}
+	.button-padding {
+		margin-top: 30px;
+	}
+}
+@media only screen and (max-width : 850px) {
+	.article-text-promo {
+		font-size: 20px;
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+}	
+@media only screen and (max-width : 768px) { 
+	.Vaccordion {
+		font-size: 14px;
+	}
+	.intro-1 {
+		font-size: 32px;
+	}
+	.article-big-1 {
+		height: 500px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.article-text-promo {
+		font-size: 20px;
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.article-centered {
+		padding-left: 16px;
+	}
+	.article-big-1 {
+		height: 300px;
+	}
+	.article-mobile {
+		padding-top: 96px;
+	}
+	.intro-1 {
+		font-size: 24px;
+	}
+	.intro-2{
+		font-size: 15px;
+	}
+	.article-review-title {
+		font-size: 26px;
+	}
+	.article-review-sub {
+		font-size: 18px;
+		padding-right: 16px;
+	}
+	.article-banner p {
+		font-size: 20px;
+	}
+	.article-review-banner, .article-Carpatains {
+		margin-left: 16px;
+	}
+	.article-question {
+		padding-bottom: 60px;
+	}
+	.article-color, .article-h1 {
+		font-size: 40px;
+	}
+	.article-sub {
+		font-size: 20px;
+	}
+	.first-block {
+		height: 736px;
+	}
+	.article-centered {
+		padding-top: 256px;
+	}
+	.article-1, .article-2, .article-3, .article-4 {
+		margin: 0 auto;
+	}
+	.article-2, .article-4 {
+		margin-top: 30px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.article-color, .article-h1 {
+	    font-size: 40px;
+	}
+	.article-sub {
+    	font-size: 18px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.article-color, .article-h1 {
+		font-size: 36px;
+	}
+	.article-sub {
+    	font-size: 14px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.article-color, .article-h1 {
+    	font-size: 32px;
+	}
+	.article-sub {
+    	font-size: 12px;
+	} 
+}

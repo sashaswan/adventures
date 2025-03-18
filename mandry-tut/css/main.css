@@ -1,0 +1,266 @@
+p {
+	margin-bottom: 0px;
+}
+.first-block {
+    background: url('/mandry-tut/img/first.jpg') no-repeat center center;
+    background-size: auto;
+    height: 800px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.c-centered {
+    max-width: 770px;
+    padding-top: 335px;
+    margin: 0 auto;
+}
+.c-h1 {
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-family: 'Open Sans', sans-serif;
+	font-size: 52px;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.23;
+	text-align: center;
+	letter-spacing: 1.56px;
+	color: #ffffff;
+}
+.c-main {
+    background-attachment: scroll;
+    background-image: url(/mandry-tut/img/texture.png);
+    min-height: 100vh;
+    background-attachment: fixed;
+    padding-bottom: 208px;
+}
+.c-location {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 96px;
+}
+.c-title-2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.33;
+	letter-spacing: 0.05px;
+	color: #ffffff;
+	padding-top: 16px;
+}
+.khomyak-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.khomyak-content:hover, .syvulya-content:hover, .svydovets-content:hover, 
+.dytjachyj-content:hover, .chornogora-content:hover, .marmarosy-content:hover, .chyvchyny-content:hover {
+	box-shadow: 1px 2px 25px 0 rgba(249, 249, 250, 0.55);
+}
+.khomyak-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/mandry-tut/img/khomyak-synyak.jpg') no-repeat center center;
+}
+.syvulya-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.syvulya-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/mandry-tut/img/syvulya.jpg') no-repeat center center;
+}
+.svydovets-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.svydovets-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/mandry-tut/img/svydovets.jpg') no-repeat center center;
+}
+.dytjachyj-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.dytjachyj-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/mandry-tut/img/dytjachyj.jpg') no-repeat center center;
+}
+.chornogora-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.chornogora-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/mandry-tut/img/chornogora.jpg') no-repeat center center;
+}
+.marmarosy-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.marmarosy-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/mandry-tut/img/marmarosy.jpg') no-repeat center center;
+}
+.chyvchyny-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.chyvchyny-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/mandry-tut/img/chyvchyny.jpg') no-repeat center center;
+}
+.c-tittle-1 {
+  float: left;
+  padding-top: 40px;
+  padding-left: 40px;
+}
+.c-content-1, .another-color {
+  text-shadow: 0 4px 5px rgba(0, 0, 0, 0.25);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 44px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.45;
+  letter-spacing: 0.09px;
+  color: #f9f9fa;
+  max-width: 667px;
+  display: block;
+}
+.c-tittle-2 {
+  float: left;
+  padding-top: 40px;
+  padding-left: 40px;
+}
+.another-color {
+    color: #c33d00;
+}
+.c-info-block-1 {
+    max-width: 360px;
+    margin: 0 auto;
+    height: 256px;
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom, rgba(195, 61, 0, 0.85), rgba(195, 61, 0, 0.1));
+    padding-left: 24px;
+}
+#c-video-1 {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-top: 80px;
+}
+.c-popup-1, .c-popup-2, .c-popup-3, .c-popup-4, .c-popup-5, .c-popup-6,
+.c-popup-7, .c-popup-8, .c-popup-9, .c-popup-10, .c-popup-11, .c-popup-12, .c-popup-13, .c-popup-14  {
+	max-width: 570px;
+	height: 295px;
+	background: url('/mandry-tut/img/video-1.jpg') no-repeat center center;
+	margin: 0 auto;
+	border-radius: 6px;
+}
+.c-popup-2 {
+	background: url('/mandry-tut/img/video-2.jpg') no-repeat center center;
+}
+.c-popup-3 {
+	background: url('/mandry-tut/img/video-3.jpg') no-repeat center center;
+}
+.c-popup-4 {
+	background: url('/mandry-tut/img/video-4.jpg') no-repeat center center;
+}
+.c-popup-5 {
+	background: url('/mandry-tut/img/video-5.jpg') no-repeat center center;
+}
+.c-popup-6 {
+	background: url('/mandry-tut/img/video-6.jpg') no-repeat center center;
+}
+.c-popup-7 {
+	background: url('/mandry-tut/img/video-7.jpg') no-repeat center center;
+}
+.c-popup-8 {
+	background: url('/mandry-tut/img/video-8.jpg') no-repeat center center;
+}
+.c-popup-9 {
+	background: url('/mandry-tut/img/video-9.jpg') no-repeat center center;
+}
+.c-popup-10 {
+	background: url('/mandry-tut/img/video-10.jpg') no-repeat center center;
+}
+.c-popup-11 {
+	background: url('/mandry-tut/img/video-11.jpg') no-repeat center center;
+}
+.c-popup-12 {
+	background: url('/mandry-tut/img/video-12.jpg') no-repeat center center;
+}
+.c-popup-13 {
+	background: url('/mandry-tut/img/video-13.jpg') no-repeat center center;
+}
+.c-popup-14 {
+	background: url('/mandry-tut/img/video-14.jpg') no-repeat center center;
+}
+.play-button-c {
+	line-height: 295px;
+	text-align: center;
+}
+.c-loc-top {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 168px;
+}
+@keyframes jump {
+  0% {
+    top: 0;
+  }
+  50% {
+    top: 20px;
+  }
+  100% {
+    top: 0;
+  }
+}
+.c-down {
+	text-align: center;
+	padding-top: 176px;
+	position: relative;
+	animation: jump 5s infinite;
+}

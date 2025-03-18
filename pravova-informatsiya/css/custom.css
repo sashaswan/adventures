@@ -1,0 +1,72 @@
+@media only screen and (max-width : 1200px) { 
+	.Y-title {
+		font-size: 24px;
+	}
+}
+@media only screen and (max-width : 1170px) {
+}
+@media only screen and (max-width : 1024px) { 
+	.Y-container {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+}
+@media only screen and (max-width : 980px) { 
+	.Y-color, .Y-h1 {
+		font-size: 34px;
+	}
+}
+@media only screen and (max-width : 850px) {
+}	
+@media only screen and (max-width : 768px) { 
+	.privacy-sub , .privacy-sub span {
+		font-size: 15px;
+	}
+	.privacy-title {
+		font-size: 32px;
+	}
+	.general {
+		font-size: 16px;
+	}
+	.general-main, .Y-email {
+		font-size: 15px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.Y-color, .Y-h1 {
+		font-size: 40px;
+	}
+	.Y-sub {
+		font-size: 20px;
+	}
+	.first-block {
+		height: 736px;
+	}
+	.Y-centered {
+		padding-top: 256px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.Y-color, .Y-h1 {
+	    font-size: 40px;
+	}
+	.Y-sub {
+    	font-size: 18px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.Y-color, .Y-h1 {
+		font-size: 36px;
+	}
+	.Y-sub {
+    	font-size: 14px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.Y-color, .Y-h1 {
+    	font-size: 32px;
+	}
+	.Y-sub {
+    	font-size: 12px;
+	} 
+}

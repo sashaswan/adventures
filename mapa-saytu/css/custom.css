@@ -1,0 +1,71 @@
+@media only screen and (max-width : 1200px) { 
+	.W-title {
+		font-size: 24px;
+	}
+}
+@media only screen and (max-width : 1170px) {
+}
+@media only screen and (max-width : 1024px) { 
+}
+@media only screen and (max-width : 980px) { 
+	.W-color, .W-h1 {
+		font-size: 34px;
+	}
+}
+@media only screen and (max-width : 850px) {
+}	
+@media only screen and (max-width : 768px) { 
+	.Vaccordion {
+		font-size: 14px;
+	}
+	.W-2 p {
+		font-size: 14px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.W-question {
+		padding-bottom: 60px;
+	}
+	.W-color, .W-h1 {
+		font-size: 40px;
+	}
+	.W-sub {
+		font-size: 20px;
+	}
+	.first-block {
+		height: 736px;
+	}
+	.W-centered {
+		padding-top: 256px;
+	}
+	.W-2 {
+		margin-bottom: 30px;
+	}
+	.W-Top-2 {
+		padding-top: 0px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.W-color, .W-h1 {
+	    font-size: 40px;
+	}
+	.W-sub {
+    	font-size: 18px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.W-color, .W-h1 {
+		font-size: 36px;
+	}
+	.W-sub {
+    	font-size: 14px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.W-color, .W-h1 {
+    	font-size: 32px;
+	}
+	.W-sub {
+    	font-size: 12px;
+	} 
+}

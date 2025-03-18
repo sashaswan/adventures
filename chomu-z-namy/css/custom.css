@@ -1,0 +1,85 @@
+@media only screen and (max-width : 1200px) { 
+	.Wh-title {
+		font-size: 24px;
+	}
+}
+@media only screen and (max-width : 1170px) {
+}
+@media only screen and (max-width : 1024px) { 
+	.Wh-container {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+}
+@media only screen and (max-width : 980px) { 
+	.Wh-color, .Wh-h1 {
+		font-size: 34px;
+	}
+}
+@media only screen and (max-width : 850px) {
+}	
+@media only screen and (max-width : 768px) { 
+	.privacy-sub , .privacy-sub span {
+		font-size: 15px;
+	}
+	.privacy-title {
+		font-size: 32px;
+	}
+	.general {
+		font-size: 16px;
+	}
+	.general-main, .Wh-email {
+		font-size: 15px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.Wh-color, .Wh-h1 {
+		font-size: 40px;
+	}
+	.Wh-sub {
+		font-size: 20px;
+	}
+	.first-block {
+		height: 736px;
+	}
+	.Wh-centered {
+		padding-top: 256px;
+	}
+	.Wh-text {
+		padding-right: 16px;
+		padding-left: 16px;
+	}
+	.Wh-title p {
+		font-size: 32px;
+	}
+	.Wh-bold {
+		font-size: 28px;
+	}
+	.Wh-light {
+		font-size: 16px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.Wh-color, .Wh-h1 {
+	    font-size: 40px;
+	}
+	.Wh-sub {
+    	font-size: 18px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.Wh-color, .Wh-h1 {
+		font-size: 36px;
+	}
+	.Wh-sub {
+    	font-size: 14px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.Wh-color, .Wh-h1 {
+    	font-size: 32px;
+	}
+	.Wh-sub {
+    	font-size: 12px;
+	} 
+}

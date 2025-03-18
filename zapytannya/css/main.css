@@ -1,0 +1,296 @@
+p, .h1, h1 {
+	margin-bottom: 0px;
+}
+.first-block {
+    background: url('/zapytannya/img/first.jpg') no-repeat center center;
+    background-size: auto;
+    height: 540px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.V-centered {
+    max-width: 1020px;
+    padding-top: 238px;
+    margin: 0 auto;
+}
+.V-h1 {
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 52px;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.1px;
+	color: #f9f9fa;
+	text-align: center;
+}
+.V-color {
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 52px;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.1px;
+	color: #c33d00;
+	text-align: center;
+}
+.V-sub {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.23;
+	letter-spacing: 0.05px;
+	color: #f9f9fa;
+	padding-top: 40px;
+	text-align: center;
+}
+.V-next {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.02px;
+	color: #ffffff;
+	padding-top: 48px;
+	text-align: center;
+}
+.V-main {
+    background-attachment: scroll;
+    background-color: #f2f2f2;
+    min-height: 100vh;
+    background-attachment: fixed;
+    padding-bottom: 120px;
+}
+@keyframes jump {
+  0% {
+    top: 0;
+  }
+  50% {
+    top: 20px;
+  }
+  100% {
+    top: 0;
+  }
+}
+.V-down {
+	text-align: center;
+	padding-top: 80px;
+	position: relative;
+	animation: jump 5s infinite;
+}
+.V-first {
+	max-width: 970px;
+	height: auto;
+	margin: 0 auto;
+}
+.V-safety {
+	max-width: 970px;
+	margin: 0 auto;
+}
+.V-title {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 29px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.69;
+	letter-spacing: 0.2px;
+	color: #1b202f;
+	margin-bottom: 0px;
+}
+.V-title span {
+	color: #c33d00;
+}
+.V-Concept {
+	padding-top: 120px;
+}
+.V-bottom-title {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.02px;
+	color: #000000;
+	padding-top: 16px;
+}
+.V-concept-box {
+	height: 120px;
+	background: url(/zapytannya/img/slide.png) no-repeat center;
+	max-width: 370px;
+	margin: 0 auto;
+	box-shadow: 0px 4px 5px #AFB8C2;
+	border-radius: 8px;
+}
+.V-concept-text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.22px;
+	color: #f9f9fa;
+	text-align: center;
+	padding-top: 33px;
+	margin-bottom: 0px;
+}
+.V-concept-text-2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.07px;
+	color: #f9f9fa;
+	text-align: center;
+}
+.V-concept-text-2 span {
+	color: #c33d00;
+}
+/* Accordion */
+.Vaccordion {
+	background-color: #e0e0e0;
+	color: #1B202F;
+	cursor: pointer;
+	padding: 18px;
+	width: 100%;
+	text-align: left;
+	border: none;
+	outline: none;
+	transition: 0.4s;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.25px;
+	border-radius: 6px;
+	margin-bottom: 24px;
+}
+.Vactive, .Vaccordion:hover {
+  background-color: #E0E0E0;
+}
+.Vpanel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  margin-bottom: 16px;
+  border-radius: 6px;
+}
+.Vpanel p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.15px;
+	line-height: 1.4;
+	color: #1B202F;
+	padding: 16px;
+}
+.Vaccordion:after {
+  content: '\02795';
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+  padding-top: 7px;
+}
+.Vactive:after {
+  content: "\2796";
+}
+.V-accordion {
+	margin-top: 72px;
+}
+/* Accordion */
+.V-1 {
+	max-width: 570px;
+	margin-right: 16px;
+	height: 470px;
+	background: url(/zapytannya/img/1.png) no-repeat center;
+	box-shadow: 0px 4px 5px #AFB8C2;
+	border-radius: 8px;
+}
+.V-2 {
+	max-width: 570px;
+	margin-left: 16px;
+	height: 470px;
+	background: url(/zapytannya/img/2.png) no-repeat center;
+	box-shadow: 0px 4px 5px #AFB8C2;
+	border-radius: 8px;
+}
+.V-3 {
+	max-width: 570px;
+	margin-right: 16px;
+	height: 470px;
+	background: url(/zapytannya/img/3.png) no-repeat center;
+	box-shadow: 0px 4px 5px #AFB8C2;
+	border-radius: 8px;
+}
+.V-4 {
+	max-width: 570px;
+	margin-left: 16px;
+	height: 470px;
+	background: url(/zapytannya/img/4.png) no-repeat center;
+	box-shadow: 0px 4px 5px #AFB8C2;
+	border-radius: 8px;
+}
+.V-1-text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 36px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #f9f9fa;
+	margin-bottom: 0px;
+	padding-top: 194px;
+	text-align: center;
+}
+.V-1-button, .v-view {
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 8px;
+	font-size: 18px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #f9f9fa;
+	text-align: center;
+	cursor: pointer;
+}
+.v-view:hover {
+	border-bottom: 2px solid #ffffff;
+	max-width: 116px;
+	padding-bottom: 6px;
+	margin: 0 auto;
+}
+.V-1-button:hover {
+	border-bottom: 2px solid #ffffff;
+	max-width: 150px;
+	padding-bottom: 6px;
+	margin: 0 auto;
+}
+.V-1-button span {
+	color: #c33d00;
+	text-align: center;
+}
+.V-1-container {
+	margin-top: 144px;
+}
+.V-2-container {
+	margin-top: 30px;
+}

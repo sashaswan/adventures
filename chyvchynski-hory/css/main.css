@@ -1,0 +1,633 @@
+p, .h1, h1 {
+	margin-bottom: 0px;
+}
+.first-block {
+    background: url('/chyvchynski-hory/img/first.jpg') no-repeat center center;
+    background-size: auto;
+    height: 1080px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.i-centered {
+    max-width: 1020px;
+    padding-top: 335px;
+    margin: 0 auto;
+}
+.i-h1 {
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 52px;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.1px;
+	color: #f9f9fa;
+	text-align: center;
+}
+.i-color {
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 52px;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.1px;
+	color: #c33d00;
+	text-align: center;
+}
+.i-sub {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.23;
+	letter-spacing: 0.05px;
+	color: #f9f9fa;
+	padding-top: 40px;
+	text-align: center;
+}
+.i-next {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.02px;
+	color: #ffffff;
+	padding-top: 48px;
+	text-align: center;
+}
+.i-main {
+    background-attachment: scroll;
+    background-image: url('/chyvchynski-hory/img/texture.png');
+    min-height: 100vh;
+    background-attachment: fixed;
+    padding-bottom: 208px;
+}
+@keyframes jump {
+  0% {
+    top: 0;
+  }
+  50% {
+    top: 20px;
+  }
+  100% {
+    top: 0;
+  }
+}
+.i-down {
+	text-align: center;
+	padding-top: 80px;
+	position: relative;
+	animation: jump 5s infinite;
+}
+.i-first {
+	max-width: 970px;
+	height: auto;
+	margin: 0 auto;
+}
+.i-tittle-1, .i-color-2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 64px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.64px;
+	color: #f9f9fa;
+	padding-top: 120px;
+}
+.i-color-2 {
+	color: #c33d00;
+}
+.i-info-1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 27px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.4;
+	letter-spacing: normal;
+	color: #f9f9fa;
+	padding-top: 64px;
+}
+.i-info-2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.6;
+	letter-spacing: normal;
+	color: #f9f9fa;
+	padding-top: 24px;
+	padding-bottom: 128px;
+}
+.i-second {
+	max-width: 940px;
+	margin: 0 auto;
+	padding-top: 168px;
+	text-align: center;
+}
+.i-map-info, .i-color-3 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 27px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.05px;
+	color: #f9f9fa;
+	padding-top: 48px;
+}
+.i-color-3 {
+	color: #c33d00;
+}
+.i-video-1 {
+	max-width: 970px;
+	height: 500px;
+	border-radius: 10px;
+	line-height: 500px;
+	background: url('/chyvchynski-hory/img/chyvchyny-video.jpg') no-repeat center center;
+	margin-top: 80px;
+}
+.i-play {
+	text-align: center;
+}
+.i-border {
+	border-radius: 5px 5px 5px 5px;
+}
+.i-info-3 {
+	max-width: 770px;
+	margin: 0 auto;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.02px;
+	color: #f9f9fa;
+	padding-top: 56px;
+}
+.information-button {
+	margin-top: 200px;
+}
+.white-button, .carrot-button {
+	max-width: 260px;
+}
+.i-gradient-white {
+	color: #ffffff;
+}
+.information-text {
+	font-size: 24px;
+}
+.i-gradient {
+	background: #ff9966; 
+	background: -webkit-linear-gradient(to bottom, #ff5e62, #ff9966);
+	background: linear-gradient(to bottom, #ff5e62, #ff9966);
+	cursor: unset;
+}
+.i-gradient:hover {
+	background: #ff9966; 
+	background: -webkit-linear-gradient(to bottom, #ff5e62, #ff9966);
+	background: linear-gradient(to bottom, #ff5e62, #ff9966);
+}
+.i-carrot {
+	color: #c33d00;
+}
+.i-tittle-4 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.02px;
+	color: #f9f9fa;
+	padding-bottom: 40px
+}
+.i-top-info {
+	max-width: 270px;
+	margin: 0 auto;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.71;
+	letter-spacing: 0.03px;
+	color: #c33d00;
+	padding-bottom: 16px;
+}
+.white-button {
+	cursor: unset;
+}
+.i-services {
+    padding-top: 200px;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.i-services-h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 44px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.44px;
+	color: #f9f9fa;
+	max-width: 970px;
+	margin: 0 auto;
+	text-align: center;
+	padding-bottom: 80px;
+}
+.i-box-1 {
+	max-width: 370px;
+	margin: 0 auto;
+}
+.i-text-1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.3;
+	letter-spacing: 0.04px;
+	color: #f9f9fa;
+	text-align: left;
+}
+.i-carrot-title {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.52px;
+	color: #c33d00;
+	text-align: left;
+	padding-top: 24px;
+}
+.i-top-services {
+	padding-top: 48px;
+}
+.i-price {
+	padding-top: 200px;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.i-price-title {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.67;
+	letter-spacing: 0.02px;
+	color: #f9f9fa;
+}
+.i-price-title {
+	padding-bottom: 40px;
+}
+.i-price-title, .i-carrot-price {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.67;
+	letter-spacing: 0.02px;
+	color: #f9f9fa;
+	text-align: left;
+}
+.i-carrot-price {
+	color: #c33d00;
+}
+.i-white-price {
+	max-width: 570px;
+	margin-top: 24px;
+	height: 56px;
+	border-radius: 2px;
+	background-color: #f9f9fa;
+	line-height: 56px;
+}
+.i-red-price {
+	max-width: 570px;
+	margin-top: 24px;
+	height: 56px;
+	border-radius: 2px;
+	background-color: #c33d00;
+	line-height: 56px;
+}
+.i-zero-margin {
+	margin-top: 0px;
+}
+.i-white-text, .i-red-text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.04px;
+	color: #1b202f;
+	padding-left: 24px;
+	text-align: left;
+	line-height: 56px;
+}
+.i-white-text-2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.04px;
+	color: #545657;
+	padding-left: 24px;
+	text-align: left;
+	line-height: 56px;
+}
+.i-red-text {
+	color: #f9f9fa;
+}
+.i-price-title-top {
+	padding-top: 64px;
+}
+.i-consultation-btn {
+	max-width: 220px;
+	height: 45px;
+	border-radius: 24px;
+	margin: 0 auto;
+	background-color: #c33d00;
+	margin-top: 80px;
+}
+.i-consult-text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.04px;
+	color: #f9f9fa;
+	line-height: 45px;
+	text-align: center;
+}
+.i-people {
+	padding-top: 200px;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.i-people-text {
+	text-shadow: 5px 3px 8px #c33d0073;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 32px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.32px;
+	color: #f9f9fa;
+	padding-bottom: 72px;
+	text-align: center;
+}
+.i-people-info {
+	max-width: 360px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.04px;
+	color: #f9f9fa;
+	padding-top: 40px;
+	text-align: center;
+	margin: 0 auto;
+}
+.i-safety {
+	max-width: 970px;
+	margin: 0 auto;
+	padding-top: 200px;
+}
+.i-safety-text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 52px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.23;
+	letter-spacing: 0.1px;
+	color: #f9f9fa;
+	text-align: center;
+}
+.i-safety-sub {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.58;
+	letter-spacing: 0.05px;
+	color: #f9f9fa;
+	text-align: center;
+	padding-top: 48px;
+}
+.i-video-2 {
+	max-width: 970px;
+	height: 500px;
+	border-radius: 10px;
+	line-height: 500px;
+	background: url('/chyvchynski-hory/img/video-chyvchyny-2.jpg') no-repeat center center;
+	margin-top: 80px;
+	text-align: center;
+}
+.i-mountain {
+	padding-top: 144px;
+	text-align: center;
+}
+.i-mountain-text, .i-mountain-text-2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.04px;
+	color: #f9f9fa;
+	padding-top: 64px;
+	max-width: 470px;
+	margin: 0 auto;
+}
+.i-mountain-text-2 {
+	padding-top: 16px;
+}
+.i-mountain-button {
+	max-width: 189px;
+	height: 40px;
+	border-radius: 24px;
+	background-color: #c33d00;
+	margin: 0 auto;
+	margin-top: 32px;
+}
+.i-btn-text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 40px;
+	letter-spacing: 0.03px;
+	color: #f9f9fa;
+}
+.syvulya-content:hover {
+	box-shadow: 1px 2px 25px 0 rgba(249, 249, 250, 0.55);
+}
+.syvulya-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.syvulya-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/mandry-tut/img/syvulya.jpg') no-repeat center center;
+}
+.i-loc-top {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 200px;
+}
+.i-title-2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.33;
+	letter-spacing: 0.05px;
+	color: #ffffff;
+	padding-top: 16px;
+}
+.i-tittle-2 {
+  float: left;
+  padding-top: 40px;
+  padding-left: 40px;
+}
+.i-content-1, .another-color {
+  text-shadow: 0 4px 5px rgba(0, 0, 0, 0.25);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 44px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.45;
+  letter-spacing: 0.09px;
+  color: #f9f9fa;
+  max-width: 667px;
+  display: block;
+}
+.another-color {
+    color: #c33d00;
+}
+.i-info-block-1 {
+    max-width: 360px;
+    margin: 0 auto;
+    height: 256px;
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom, rgba(195, 61, 0, 0.85), rgba(195, 61, 0, 0.1));
+    padding-left: 24px;
+}
+#i-video-1 {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-top: 80px;
+}
+.i-popup-13, .i-popup-14  {
+	max-width: 570px;
+	height: 295px;
+	margin: 0 auto;
+	border-radius: 6px;
+}
+.i-popup-13 {
+	background: url('/chyvchynski-hory/img/video-13.jpg') no-repeat center center;
+}
+.i-popup-14 {
+	background: url('/chyvchynski-hory/img/video-14.jpg') no-repeat center center;
+}
+.play-button-i {
+	line-height: 295px;
+	text-align: center;
+}
+.i-border-people {
+	border-radius: 4px;
+}
+/* Accordion */
+.iaccordion {
+	background-color: #F9F9FA;
+	color: #1B202F;
+	cursor: pointer;
+	padding: 18px;
+	width: 100%;
+	text-align: left;
+	border: none;
+	outline: none;
+	transition: 0.4s;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.25px;
+	border-radius: 6px;
+	margin-bottom: 24px;
+}
+.iactive, .iaccordion:hover {
+  background-color: #E0E0E0;
+}
+.ipanel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  margin-bottom: 16px;
+  border-radius: 6px;
+}
+.ipanel p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.15px;
+	line-height: 1.4;
+	color: #1B202F;
+	padding: 16px;
+}
+.iaccordion:after {
+  content: '\02795';
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+  padding-top: 7px;
+}
+.iactive:after {
+  content: "\2796";
+}
+.i-accordion {
+	margin-top: 200px;
+}
+/* Accordion */

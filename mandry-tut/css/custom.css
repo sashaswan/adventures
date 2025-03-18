@@ -1,0 +1,54 @@
+@media only screen and (max-width : 1170px) { 
+	.c-popup-1, .c-popup-2, .c-popup-3, .c-popup-4, 
+	.c-popup-5, .c-popup-6, .c-popup-7, .c-popup-8, 
+	.c-popup-9, .c-popup-10, .c-popup-11, .c-popup-12, .c-popup-13, .c-popup-14 {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+}	
+@media only screen and (max-width : 840px) { 
+	.c-tittle-1, .c-tittle-2 {
+		max-width: 555px;
+		padding-left: 16px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.c-tittle-1, .c-tittle-2 {
+    	max-width: 330px;
+	}
+	.c-popup-2, .c-popup-4, .c-popup-6, .c-popup-8, .c-popup-10, .c-popup-12, .c-popup-14 {
+		margin-top: 80px;
+	}
+	.c-h1 {
+		font-size: 34px;
+	}
+	.c-content-1, .another-color {
+    	font-size: 28px;
+	}
+	#c-video-1 {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.c-content-1, .another-color {
+		font-size: 25px;
+	}
+	.c-tittle-1, .c-tittle-2 {
+		max-width: 300px;
+	}
+	.c-h1 {
+    	font-size: 35px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.c-h1 {
+		font-size: 32px;
+	}
+	.c-tittle-1, .c-tittle-2 {
+		padding-right: 8px;
+	}
+	.c-tittle-1, .c-tittle-2 {
+		max-width: 251px;
+	}
+}

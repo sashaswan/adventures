@@ -1,0 +1,98 @@
+@media only screen and (max-width : 1200px) { 
+	.M-question {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.M-title {
+		font-size: 24px;
+	}
+	.M-bottom-title {
+		font-size: 18px;
+	}
+}
+@media only screen and (max-width : 1170px) {
+}
+@media only screen and (max-width : 1024px) { 
+}
+@media only screen and (max-width : 980px) { 
+	.M-color, .M-h1 {
+		font-size: 34px;
+	}
+	.M-safety {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+}
+@media only screen and (max-width : 850px) {
+}	
+@media only screen and (max-width : 768px) { 
+	.Vaccordion {
+		font-size: 14px;
+	}
+	.M-1-info {
+		font-size: 28px;
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.M-2-info {
+		font-size: 24px;
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.M-3-info {
+		font-size: 16px;
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.M-question {
+		padding-bottom: 60px;
+	}
+	.M-color, .M-h1 {
+		font-size: 40px;
+	}
+	.M-sub {
+		font-size: 20px;
+	}
+	.first-block {
+		height: 736px;
+	}
+	.M-centered {
+		padding-top: 256px;
+	}
+	.M-1, .M-2, .M-3, .M-4 {
+		margin: 0 auto;
+	}
+	.M-2, .M-4 {
+		margin-top: 30px;
+	}
+	.M-1-info, .M-2-info , .M-3-info {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.M-color, .M-h1 {
+	    font-size: 40px;
+	}
+	.M-sub {
+    	font-size: 18px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.M-color, .M-h1 {
+		font-size: 36px;
+	}
+	.M-sub {
+    	font-size: 14px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.M-color, .M-h1 {
+    	font-size: 32px;
+	}
+	.M-sub {
+    	font-size: 12px;
+	} 
+}

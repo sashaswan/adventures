@@ -1,0 +1,186 @@
+p {
+	margin-bottom: 0px;
+}
+.first-block {
+    background: url('/velosypedni-tury/img/first.jpg') no-repeat center center;
+    background-size: auto;
+    height: 800px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.b-centered {
+    max-width: 970px;
+    padding-top: 335px;
+    margin: 0 auto;
+}
+.b-h1 {
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-family: 'Open Sans', sans-serif;
+	font-size: 52px;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.23;
+	text-align: center;
+	letter-spacing: 1.56px;
+	color: #ffffff;
+}
+.b-main {
+    background-attachment: scroll;
+    background-image: url(/velosypedni-tury/img/texture.png);
+    min-height: 100vh;
+    background-attachment: fixed;
+    padding-bottom: 208px;
+}
+.b-location {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 96px;
+}
+.b-title-2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.33;
+	letter-spacing: 0.05px;
+	color: #ffffff;
+	padding-top: 16px;
+}
+.petros-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.petros-content:hover, .svydovets-content:hover, .chyvyny-content:hover {
+	box-shadow: 1px 2px 25px 0 rgba(249, 249, 250, 0.55);
+}
+.petros-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/velosypedni-tury/img/velo-hoverla-petros.jpg') no-repeat center center;
+}
+.svydovets-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.svydovets-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/velosypedni-tury/img/velo-2.jpg') no-repeat center center;
+}
+.chyvyny-tour {
+  max-width: 1845px;
+  margin: 0 auto;
+  padding-top: 64px;
+}
+.chyvyny-content {
+  margin-left: 16px;
+  margin-right: 16px;
+  height: 910px;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0px 10px 35px rgba(129, 139, 150, 0.55);
+  background: url('/velosypedni-tury/img/velo-3.jpg') no-repeat center center;
+}
+.b-tittle-1 {
+  max-width: 490px;
+  float: left;
+  padding-top: 40px;
+  padding-left: 40px;
+}
+.b-content-1, .another-color {
+  text-shadow: 0 4px 5px rgba(0, 0, 0, 0.25);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 44px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.45;
+  letter-spacing: 0.09px;
+  color: #f9f9fa;
+}
+.b-tittle-2 {
+  max-width: 590px;
+  float: left;
+  padding-top: 40px;
+  padding-left: 40px;
+}
+.another-color {
+    color: #c33d00;
+}
+.b-info-block-1 {
+    max-width: 360px;
+    margin: 0 auto;
+    height: 256px;
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom, rgba(195, 61, 0, 0.85), rgba(195, 61, 0, 0.1));
+    padding-left: 24px;
+}
+#b-video-1 {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding-top: 80px;
+}
+.b-popup-1, .b-popup-2, .b-popup-3, .b-popup-4, .b-popup-5, .b-popup-6 {
+	max-width: 570px;
+	height: 295px;
+	background: url('/velosypedni-tury/img/video-1.png') no-repeat center center;
+	margin: 0 auto;
+	margin-left: 16px;
+	margin-right: 16px;
+	border-radius: 6px;
+}
+.b-popup-2 {
+	background: url('/velosypedni-tury/img/video-2.png') no-repeat center center;
+}
+.b-popup-3 {
+	background: url('/velosypedni-tury/img/video-3.png') no-repeat center center;
+}
+.b-popup-4 {
+	background: url('/velosypedni-tury/img/video-4.png') no-repeat center center;
+}
+.b-popup-5 {
+	background: url('/velosypedni-tury/img/video-5.png') no-repeat center center;
+}
+.b-popup-6 {
+	background: url('/velosypedni-tury/img/video-6.png') no-repeat center center;
+}
+.play-button-b {
+	line-height: 295px;
+	text-align: center;
+}
+.b-loc-top {
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 168px;
+}
+@keyframes jump {
+  0% {
+    top: 0;
+  }
+  50% {
+    top: 20px;
+  }
+  100% {
+    top: 0;
+  }
+}
+.b-down {
+	text-align: center;
+	padding-top: 176px;
+	position: relative;
+	animation: jump 5s infinite;
+}

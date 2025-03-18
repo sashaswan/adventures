@@ -1,0 +1,181 @@
+p, .h1, h1 {
+	margin-bottom: 0px;
+}
+.first-block {
+    background: url('/istoriyi/img/first.jpg') no-repeat center center;
+    background-size: auto;
+    height: 1080px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.blog-centered {
+    max-width: 1020px;
+    padding-top: 452px;
+    margin: 0 auto;
+}
+.blog-h1 {
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 52px;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.1px;
+	color: #f9f9fa;
+	text-align: center;
+}
+.blog-color {
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 52px;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.1px;
+	color: #c33d00;
+	text-align: center;
+}
+.blog-sub {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.23;
+	letter-spacing: 0.05px;
+	color: #f9f9fa;
+	padding-top: 40px;
+	text-align: center;
+}
+.blog-next {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.02px;
+	color: #ffffff;
+	padding-top: 48px;
+	text-align: center;
+}
+.blog-main {
+    background-attachment: scroll;
+    background-color: #282828;
+    min-height: 100vh;
+    background-attachment: fixed;
+    padding-bottom: 88px;
+}
+.blog-down {
+    text-align: center;
+    padding-top: 72px;
+    position: relative;
+    animation: jump 5s infinite;
+}
+@keyframes jump {
+  0% {
+    top: 0;
+  }
+  50% {
+    top: 20px;
+  }
+  100% {
+    top: 0;
+  }
+}
+.blog-intro {
+	padding-top: 64px;
+	padding-bottom: 56px;
+}
+.intro-1 {
+	text-shadow: 1px 2px 2px #c33d0033;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #f9f9fa;
+	margin-bottom: 0px;
+}
+.intro-2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #f9f9fa;
+	padding-top: 8px;
+	max-width: 570px;
+	margin-bottom: 0px;
+}
+.blog-items {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.09px;
+	color: #f9f9fa;
+	cursor: pointer;
+	max-width: 138px;
+	margin: 0 auto;
+	padding-bottom: 14px;
+	height: 40px;
+}
+.blog-items:hover {
+	border-bottom: solid 2px #ffffff;
+}
+.blog-items-bottom {
+	margin-bottom: 88px;
+}
+.article-description {
+	padding-top: 40px;
+	max-width: 570px;
+}
+.article-title {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 32px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.64px;
+	color: #f9f9fa;
+	margin-bottom: 0px;
+}
+.article-sub {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.67;
+	letter-spacing: 0.09px;
+	color: #f9f9fa;
+	margin-bottom: 0px;
+	padding-top: 16px;
+}
+.arcticle-more {
+	text-shadow: 1px 4px 6px #00000040;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.11px;
+	color: #c33d00;
+	margin-bottom: 0px;
+	padding-top: 40px;
+}
+.article-padding {
+	padding-top: 96px;
+}

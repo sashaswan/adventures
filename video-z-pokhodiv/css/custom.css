@@ -1,0 +1,104 @@
+@media only screen and (max-width : 1200px) { 
+	.Video-question {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.Video-title {
+		font-size: 24px;
+	}
+	.Video-bottom-title {
+		font-size: 18px;
+	}
+}
+@media only screen and (max-width : 1170px) {
+}
+@media only screen and (max-width : 1024px) { 
+}
+@media only screen and (max-width : 980px) { 
+	.Video-color, .Video-h1 {
+		font-size: 34px;
+	}
+	.Video-safety {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+}
+@media only screen and (max-width : 850px) {
+}	
+@media only screen and (max-width : 768px) { 
+	.Vaccordion {
+		font-size: 14px;
+	}
+	.Video-back-title-mini {
+		font-size: 28px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.Video-question {
+		padding-bottom: 60px;
+	}
+	.Video-color, .Video-h1 {
+		font-size: 40px;
+	}
+	.Video-sub {
+		font-size: 20px;
+	}
+	.first-block {
+		height: 736px;
+	}
+	.Video-centered {
+		padding-top: 256px;
+	}
+	.Video-1, .Video-2, .Video-3, .Video-4 {
+		margin: 0 auto;
+	}
+	.Video-2, .Video-4 {
+		margin-top: 30px;
+	}
+	.Video-mini-back, .Video-mini-back-2, .Video-mini-back-3, .Video-mini-back-4, .Video-mini-back-4, .Video-mini-back-5, .Video-mini-back-6, .Video-mini-back-7, .Video-mini-back-8,
+	.Video-mini-back-9, .Video-mini-back-10, .Video-mini-back-11 {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.Video-mini-back-2, .Video-mini-back-4, .Video-mini-back-6, .Video-mini-back-6, .Video-mini-back-8, .Video-mini-back-9, .Video-mini-back-10, .Video-mini-back-11 {
+		margin-top: 30px;
+	}
+	.Video-main {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.Video-banner-1 p, .Video-banner-2 p, .Video-photos-sub {
+		font-size: 18px;
+	}
+	.Video-photos-title {
+		font-size: 32px;
+	}
+	.Video-banner-2 p {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.Video-color, .Video-h1 {
+	    font-size: 40px;
+	}
+	.Video-sub {
+    	font-size: 18px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.Video-color, .Video-h1 {
+		font-size: 36px;
+	}
+	.Video-sub {
+    	font-size: 14px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.Video-color, .Video-h1 {
+    	font-size: 32px;
+	}
+	.Video-sub {
+    	font-size: 12px;
+	} 
+}

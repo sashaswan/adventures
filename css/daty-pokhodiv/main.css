@@ -1,0 +1,146 @@
+p, h1 {
+	margin-bottom: 0px;
+	line-height: 1;
+}
+html, body {
+	margin: 0;
+	line-height: 1;
+}
+.a-head {	
+	background: url('/img/daty-pokhodiv/a-head.jpg') no-repeat center center;
+	height: 540px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.a-block {
+	max-width: 1120px;
+	padding-top: 206px;
+	margin: 0 auto;
+}
+.a-tittle {
+  max-width: 864px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 52px;
+  font-weight: 800;
+  font-stretch: normal;
+  text-align: center;
+  margin: 0 auto;
+  font-style: normal;
+  line-height: 1.23;
+  letter-spacing: 1.56px;
+  color: #ffffff;
+}
+.a-block-1 {
+	height: 1180px;
+	background-color: #f2f2f2;
+}  
+.a-block-2 {
+	height: 966px;
+	background-color: #f2f2f2;
+}
+.menu .dot {
+	border: 1px solid #c33d00;
+}
+.menu .dot:hover, .menu .dot.active {
+    background-color: #c33d00;
+}
+.a-center {
+	text-align: center;
+}
+.a-info {
+	max-width: 380px;
+	margin: 0 auto;
+	height: 216px;
+	border-radius: 4px;
+	box-shadow: 2px 1px 10px 0 rgba(0, 0, 0, 0.15);
+	background-color: #ffffff;
+}
+.a-info:hover {
+	box-shadow: 2px 1px 10px 0 rgba(0, 0, 0, 0.35);
+}
+.a-title-1, .a-title-2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.06;
+	letter-spacing: 0.07px;
+	color: #282828;
+	padding-top: 80px;
+	padding-bottom: 48px;
+}
+.a-title-2 {
+	padding-top: 32px;
+}
+.a-top {
+	padding-top: 30px;
+}
+.a-bottom {
+	padding-bottom: 30px;
+}
+.a-info-main {
+	max-width: 280px;
+	padding-left: 40px;
+	padding-top: 24px;
+}
+.a-text-1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.05px;
+	color: #282828;
+	text-align: left;
+}
+.a-text-2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: 0.03px;
+  color: #333333;
+  padding-top: 24px;
+  text-align: left;
+}
+.a-text-3 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.03px;
+	color: #1b202f;
+	padding-top: 8px;
+	text-align: left;
+}
+.a-text-4 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.03px;
+	color: #333333;
+	padding-top: 8px;
+	text-align: left;
+}
+.a-more {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.01px;
+	text-align: left;
+	padding-top: 24px;
+	color: #c33d00;
+}
+.a-arrow {
+	padding-left: 8px;
+}

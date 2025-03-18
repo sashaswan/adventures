@@ -1,0 +1,95 @@
+@media only screen and (max-width : 1200px) { 
+	.X-question {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.X-title {
+		font-size: 24px;
+	}
+	.X-bottom-title {
+		font-size: 18px;
+	}
+}
+@media only screen and (max-width : 1170px) {
+}
+@media only screen and (max-width : 1024px) { 
+}
+@media only screen and (max-width : 980px) { 
+	.X-color, .X-h1 {
+		font-size: 34px;
+	}
+	.X-safety {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+}
+@media only screen and (max-width : 850px) {
+}	
+@media only screen and (max-width : 768px) { 
+	.Vaccordion {
+		font-size: 14px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.X-review-title {
+		font-size: 26px;
+	}
+	.X-review-sub {
+		font-size: 18px;
+		padding-right: 16px;
+	}
+	.X-banner p {
+		font-size: 20px;
+	}
+	.X-review-banner, .X-Carpatains {
+		margin-left: 16px;
+	}
+	.X-video-2, .X-video-4, .X-video-5, .X-video-6, .X-video-8 {
+		margin-top: 56px;
+	}
+	.X-question {
+		padding-bottom: 60px;
+	}
+	.X-color, .X-h1 {
+		font-size: 40px;
+	}
+	.X-sub {
+		font-size: 20px;
+	}
+	.first-block {
+		height: 736px;
+	}
+	.X-centered {
+		padding-top: 256px;
+	}
+	.X-1, .X-2, .X-3, .X-4 {
+		margin: 0 auto;
+	}
+	.X-2, .X-4 {
+		margin-top: 30px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.X-color, .X-h1 {
+	    font-size: 40px;
+	}
+	.X-sub {
+    	font-size: 18px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.X-color, .X-h1 {
+		font-size: 36px;
+	}
+	.X-sub {
+    	font-size: 14px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.X-color, .X-h1 {
+    	font-size: 32px;
+	}
+	.X-sub {
+    	font-size: 12px;
+	} 
+}

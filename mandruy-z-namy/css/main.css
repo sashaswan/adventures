@@ -1,0 +1,287 @@
+p, .h1, h1 {
+	margin-bottom: 0px;
+}
+.first-block {
+    background: url('/mandruy-z-namy/img/first.jpg') no-repeat center center;
+    background-size: auto;
+    height: 800px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.M-centered {
+    max-width: 1020px;
+    padding-top: 340px;
+    margin: 0 auto;
+}
+.M-h1 {
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 52px;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.1px;
+	color: #f9f9fa;
+	text-align: center;
+}
+.M-color {
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 52px;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.1px;
+	color: #c33d00;
+	text-align: center;
+}
+.M-sub {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.23;
+	letter-spacing: 0.05px;
+	color: #f9f9fa;
+	padding-top: 40px;
+	text-align: center;
+}
+.M-next {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.02px;
+	color: #ffffff;
+	padding-top: 48px;
+	text-align: center;
+}
+.M-main {
+    background-attachment: scroll;
+    background-color: #f2f2f2;
+    min-height: 100vh;
+    background-attachment: fixed;
+    padding-bottom: 120px;
+}
+@keyframes jump {
+  0% {
+    top: 0;
+  }
+  50% {
+    top: 20px;
+  }
+  100% {
+    top: 0;
+  }
+}
+.M-down {
+	text-align: center;
+	padding-top: 80px;
+	position: relative;
+	animation: jump 5s infinite;
+}
+.M-first {
+	max-width: 970px;
+	height: auto;
+	margin: 0 auto;
+}
+.M-safety {
+	max-width: 970px;
+	margin: 0 auto;
+}
+.M-title {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 29px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.69;
+	letter-spacing: 0.2px;
+	color: #1b202f;
+	margin-bottom: 0px;
+}
+.M-title span {
+	color: #c33d00;
+}
+.M-Concept {
+	padding-top: 120px;
+}
+.M-bottom-title {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.02px;
+	color: #000000;
+	padding-top: 16px;
+}
+.M-concept-box {
+	height: 120px;
+	background: url(/mandruy-z-namy/img/slide.png) no-repeat center;
+	max-width: 370px;
+	margin: 0 auto;
+}
+.M-concept-text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.22px;
+	color: #f9f9fa;
+	text-align: center;
+	padding-top: 33px;
+	margin-bottom: 0px;
+}
+.M-concept-text-2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.07px;
+	color: #f9f9fa;
+	text-align: center;
+}
+.M-concept-text-2 span {
+	color: #c33d00;
+}
+
+.M-1 {
+	max-width: 570px;
+	margin-right: 16px;
+	height: 470px;
+	background: url(/mandruy-z-namy/img/1.png) no-repeat center;
+}
+.M-2 {
+	max-width: 570px;
+	margin-left: 16px;
+	height: 470px;
+	background: url(/mandruy-z-namy/img/2.png) no-repeat center;
+}
+.M-3 {
+	max-width: 570px;
+	margin-right: 16px;
+	height: 470px;
+	background: url(/mandruy-z-namy/img/3.png) no-repeat center;
+}
+.M-4 {
+	max-width: 570px;
+	margin-left: 16px;
+	height: 470px;
+	background: url(/mandruy-z-namy/img/4.png) no-repeat center;
+}
+.M-1-text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 36px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #f9f9fa;
+	margin-bottom: 0px;
+	padding-top: 194px;
+	text-align: center;
+}
+.M-1-button, .v-view {
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 8px;
+	font-size: 18px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: normal;
+	color: #f9f9fa;
+	text-align: center;
+	cursor: pointer;
+}
+.v-view:hover {
+	border-bottom: 2px solid #ffffff;
+	max-width: 116px;
+	padding-bottom: 6px;
+	margin: 0 auto;
+}
+.M-1-button:hover {
+	border-bottom: 2px solid #ffffff;
+	max-width: 150px;
+	padding-bottom: 6px;
+	margin: 0 auto;
+}
+.M-1-button span {
+	color: #c33d00;
+	text-align: center;
+}
+.M-1-container {
+	margin-top: 144px;
+}
+.M-2-container {
+	margin-top: 30px;
+}
+.M-box {
+	max-width: 770px;
+	margin: 0 auto;
+	padding-top: 168px;
+}
+.M-box-2 {
+	max-width: 820px;
+	margin: 0 auto;
+	padding-top: 168px;
+}
+.M-1-info {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 64px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.22;
+	letter-spacing: 0.64px;
+	color: #000000;
+	margin-bottom: 0px;
+}
+.M-2-info {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.6px;
+	color: #000000;
+	padding-top: 40px;
+	margin-bottom: 0px;
+}
+.M-3-info {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: 0.1px;
+	color: #1b202f;
+	padding-top: 24px;
+}
+.M-big {
+	background: url(/mandruy-z-namy/img/2-big.png) no-repeat center;
+	height: 586px;
+	line-height: 586px;
+	text-align: center;
+	margin-top: 88px;
+}
+.M-big-2 {
+	background: url(/mandruy-z-namy/img/2-2-big.png) no-repeat center;
+	height: 586px;
+	line-height: 586px;
+	text-align: center;
+	margin-top: 88px;
+}

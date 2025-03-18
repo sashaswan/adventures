@@ -1,0 +1,144 @@
+p, .h1, h1 {
+	margin-bottom: 0px;
+}
+.first-block {
+    background: url('/chomu-z-namy/img/first.jpg') no-repeat center center;
+    background-size: auto;
+    height: 540px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.Wh-centered {
+    max-width: 1020px;
+    padding-top: 238px;
+    margin: 0 auto;
+}
+.Wh-h1 {
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 52px;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.1px;
+	color: #f9f9fa;
+	text-align: center;
+}
+.Wh-color {
+	font-family: 'Open Sans', sans-serif;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	font-size: 52px;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	letter-spacing: 0.1px;
+	color: #c33d00;
+	text-align: center;
+}
+.Wh-sub {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 26px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.23;
+	letter-spacing: 0.05px;
+	color: #f9f9fa;
+	padding-top: 40px;
+	text-align: center;
+}
+.Wh-next {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.02px;
+	color: #ffffff;
+	padding-top: 48px;
+	text-align: center;
+}
+.Wh-main {
+    background-attachment: scroll;
+    background-color: #f2f2f2;
+    min-height: 100vh;
+    background-attachment: fixed;
+    padding-bottom: 88px;
+}
+@keyframes jump {
+  0% {
+    top: 0;
+  }
+  50% {
+    top: 20px;
+  }
+  100% {
+    top: 0;
+  }
+}
+.Wh-down {
+	text-align: center;
+	padding-top: 80px;
+	position: relative;
+	animation: jump 5s infinite;
+}
+.Wh-first {
+	max-width: 970px;
+	height: auto;
+	margin: 0 auto;
+}
+.Wh-title {
+	padding-top: 144px;
+}
+.Wh-title p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 64px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.22;
+	letter-spacing: 0.64px;
+	color: #000000;
+	margin-bottom: 0px;
+	max-width: 770px;
+	margin:0 auto;
+	text-align: center;
+}
+.Wh-video {
+	background: url(/chomu-z-namy/img/video-1.png) no-repeat center;
+	height: 586px;
+	text-align: center;
+	line-height: 586px;
+	margin-top: 72px;
+	margin-bottom: 168px;
+}
+.Wh-text {
+	max-width: 770px;
+	margin: 0 auto;
+	padding-bottom: 72px;
+}
+.Wh-bold {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 36px;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: normal;
+	letter-spacing: 0.72px;
+	color: #000000;
+}
+.Wh-light {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.55;
+	letter-spacing: 0.4px;
+	color: #1b202f;
+	margin-bottom: 0px;
+	padding-top: 24px;
+}

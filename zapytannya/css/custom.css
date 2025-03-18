@@ -1,0 +1,79 @@
+@media only screen and (max-width : 1200px) { 
+	.V-question {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.V-title {
+		font-size: 24px;
+	}
+	.V-bottom-title {
+		font-size: 18px;
+	}
+}
+@media only screen and (max-width : 1170px) {
+}
+@media only screen and (max-width : 1024px) { 
+}
+@media only screen and (max-width : 980px) { 
+	.V-color, .V-h1 {
+		font-size: 34px;
+	}
+	.V-safety {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+}
+@media only screen and (max-width : 850px) {
+}	
+@media only screen and (max-width : 768px) { 
+	.Vaccordion {
+		font-size: 14px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.V-question {
+		padding-bottom: 60px;
+	}
+	.V-color, .V-h1 {
+		font-size: 40px;
+	}
+	.V-sub {
+		font-size: 20px;
+	}
+	.first-block {
+		height: 736px;
+	}
+	.V-centered {
+		padding-top: 256px;
+	}
+	.V-1, .V-2, .V-3, .V-4 {
+		margin: 0 auto;
+	}
+	.V-2, .V-4 {
+		margin-top: 30px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.V-color, .V-h1 {
+	    font-size: 40px;
+	}
+	.V-sub {
+    	font-size: 18px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.V-color, .V-h1 {
+		font-size: 36px;
+	}
+	.V-sub {
+    	font-size: 14px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.V-color, .V-h1 {
+    	font-size: 32px;
+	}
+	.V-sub {
+    	font-size: 12px;
+	} 
+}

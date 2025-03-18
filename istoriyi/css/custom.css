@@ -1,0 +1,120 @@
+@media only screen and (max-width : 1200px) { 
+	.blog-question {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.blog-title {
+		font-size: 24px;
+	}
+	.blog-bottom-title {
+		font-size: 18px;
+	}
+}
+@media only screen and (max-width : 1170px) {
+}
+@media only screen and (max-width : 1024px) { 
+	.article-paddings {
+		padding-left: 16px;
+		padding-right: 16px;
+	}
+	.blog-items {
+		margin-bottom: 16px;
+	}
+}
+@media only screen and (max-width : 980px) { 
+	.blog-color, .blog-h1 {
+		font-size: 34px;
+	}
+	.blog-safety {
+		margin-left: 16px;
+		margin-right: 16px;
+	}
+	.article-title {
+		font-size: 24px;
+	}
+	.article-sub {
+		font-size: 16px;
+	}
+	.arcticle-more {
+		font-size: 18px;
+	}
+}
+@media only screen and (max-width : 850px) {
+}	
+@media only screen and (max-width : 768px) { 
+	.Vaccordion {
+		font-size: 14px;
+	}
+	.intro-1 {
+		font-size: 32px;
+	}
+}	
+@media only screen and (max-width : 639px) {
+	.article-mobile {
+		padding-top: 96px;
+	}
+	.intro-1 {
+		font-size: 24px;
+	}
+	.intro-2{
+		font-size: 15px;
+	}
+	.blog-review-title {
+		font-size: 26px;
+	}
+	.blog-review-sub {
+		font-size: 18px;
+		padding-right: 16px;
+	}
+	.blog-banner p {
+		font-size: 20px;
+	}
+	.blog-review-banner, .blog-Carpatains {
+		margin-left: 16px;
+	}
+	.blog-question {
+		padding-bottom: 60px;
+	}
+	.blog-color, .blog-h1 {
+		font-size: 40px;
+	}
+	.blog-sub {
+		font-size: 20px;
+	}
+	.first-block {
+		height: 736px;
+	}
+	.blog-centered {
+		padding-top: 256px;
+	}
+	.blog-1, .blog-2, .blog-3, .blog-4 {
+		margin: 0 auto;
+	}
+	.blog-2, .blog-4 {
+		margin-top: 30px;
+	}
+}
+@media only screen and (max-width : 414px) {
+	.blog-color, .blog-h1 {
+	    font-size: 40px;
+	}
+	.blog-sub {
+    	font-size: 18px;
+	}
+}
+@media only screen and (max-width : 375px) {
+	.blog-color, .blog-h1 {
+		font-size: 36px;
+	}
+	.blog-sub {
+    	font-size: 14px;
+	}
+}
+@media only screen and (max-width : 320px) {
+	.blog-color, .blog-h1 {
+    	font-size: 32px;
+	}
+	.blog-sub {
+    	font-size: 12px;
+	} 
+}
